@@ -71,6 +71,11 @@ def main(argv=None, *, fetcher=None):
     mcp = commands.add_parser("mcp", help="Run the optional stdio MCP server")
     mcp.add_argument("--config", default=argparse.SUPPRESS)
     args = parser.parse_args(argv)
+    if args.command != "mcp" and hasattr(sys.stdout, "reconfigure") and (sys.stdout.encoding or "").lower() not in ("utf-8", "utf8"):
+        # Windows consoles default to a legacy code page; job text often has emoji or BOMs.
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if getattr(args, "q", None):
+        args.q = [part.strip() for value in args.q for part in value.split(",") if part.strip()]
     try:
         if args.command == "sources":
             for source in list_sources():

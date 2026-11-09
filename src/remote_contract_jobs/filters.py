@@ -35,7 +35,7 @@ FORUM_SOURCES = {"hn", "n8n", "make"}
 OTHER_COUNTRIES = (r"\b(?:germany|france|spain|portugal|italy|netherlands|belgium|austria|switzerland|poland|"
     r"hungary|romania|czechia|czech republic|slovakia|bulgaria|greece|croatia|serbia|ukraine|ireland|sweden|"
     r"norway|denmark|finland|estonia|latvia|lithuania|turkey|türkiye|israel|united arab emirates|uae|"
-    r"saudi arabia|egypt|south africa|nigeria|kenya|brazil|mexico|argentina|colombia|chile|peru|"
+    r"saudi arabia|egypt|morocco|tunisia|algeria|south africa|nigeria|kenya|brazil|mexico|argentina|colombia|chile|peru|"
     r"india|pakistan|bangladesh|australia|new zealand|japan|south korea|china|singapore|malaysia|"
     r"indonesia|philippines|thailand|latam|latin america|emea|americas|north america)\b")
 

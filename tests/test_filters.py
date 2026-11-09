@@ -95,7 +95,7 @@ def test_plain_and_dates():
     assert iso_date("bad") == ""
 
 
-@pytest.mark.parametrize("location", ["Hungary", "Germany", "Brazil, Mexico", "LATAM", "EMEA"])
+@pytest.mark.parametrize("location", ["Hungary", "Germany", "Brazil, Mexico", "LATAM", "EMEA", "Morocco"])
 def test_structured_country_lists_outside_accepted_region_are_rejected(location):
     assert location_fit(location) == "reject"
 

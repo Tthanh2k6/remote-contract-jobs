@@ -79,6 +79,8 @@ def test_config_validation_and_override(fixture_data, tmp_path, monkeypatch):
     monkeypatch.setattr(cli, "search_jobs", fake)
     cli.main(["--config", str(path), "search", "--q", "python", "--max-age-days", "0"])
     assert received["query"] == ["python"] and received["max_age_days"] == 0
+    cli.main(["--config", str(path), "search", "--q", "supabase, react native", "--q", "expo"])
+    assert received["query"] == ["supabase", "react native", "expo"]
 
 
 def test_mcp_tools_return_json(fixture_data, monkeypatch, tmp_path):
