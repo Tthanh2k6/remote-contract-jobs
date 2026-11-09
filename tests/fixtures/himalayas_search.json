@@ -1,0 +1,445 @@
+{
+ "comments": "Search results come 20 to a page. Pass ?page=2, ?page=3 and so on for more; there is no cursor on search. Cursor pagination (nextCursor) is only on /jobs/api, the browse feed. 13/03/2026: The API has been updated to include the companySlug field in the response.",
+ "updatedAt": 1793538655,
+ "offset": 0,
+ "limit": 20,
+ "totalCount": 92,
+ "jobs": [
+  {
+   "title": "Senior Fullstack Engineer - TypeScript / Next.js / Supabase",
+   "excerpt": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia.",
+   "companyName": "Huzzle",
+   "companySlug": "huzzle",
+   "companyLogo": "https://cdn-images.himalayas.app/9lc6nafazoy08dhh3b539jxnxt0y",
+   "employmentType": "Contractor",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Bosnia and Herzegovina"
+   ],
+   "timezoneRestrictions": [
+    1
+   ],
+   "categories": [
+    "Full-Stack-Engineering",
+    "TypeScript-Development",
+    "React",
+    "Next.Js-Development",
+    "SaaS-Development",
+    "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
+    "Senior-Full-Stack-Engineer-(React-Node.Js)",
+    "¿Senior-Fullstack-Engineering",
+    "Full-Stack-Developer-(Next.Js-React)",
+    "Senior-Full-Stack-Developer-(React-Node.Js)",
+    "Senior-Full-Stack-Engineering",
+    "Software-Engineer",
+    "Full-Stack-Engineer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<h3>About <a href=\"https://himalayas.app/companies/huzzle\">Huzzle</a>\n</h3><p>At <a href=\"https://himalayas.app/companies/huzzle\">Huzzle</a>, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries such as SaaS, MarTech, FinTech, and HealthTech. Unlike an outsourcing agency, we place you directly with a client where you’re hired in-house as a valued member of their team.</p><h3><strong>About the Company</strong></h3><p>Our client is a fast-growing technology company building multiple SaaS platforms across AI, healthcare, and data intelligence. Their core product is a multi-tenant AI-powered platform designed to enhance sales intelligence and call analysis, alongside a HIPAA-aware healthcare portal and a growing audience intelligence platform.</p><p>They operate in a highly technical, product-driven environment focused on scalability, clean architecture, and efficient execution.</p><h3>Role Type: Full-time</h3><h3>Engagement: Independent Contractor </h3><h3><strong>Job Summary</strong></h3><p>We are hiring a Full-Stack Software Engineer to work across multiple SaaS applications, contributing to feature development, integrations, debugging, and backend systems.</p><p>This is a high-impact remote engineering role where you’ll split your time across products based on sprint priorities, with a primary focus on an AI-driven platform. You’ll be responsible for executing scoped tasks with precision while also contributing to more complex systems and integrations.</p><h3>Key Responsibilities</h3><ul>\n<li><strong>AI Sales Intelligence Platform (Primary Focus – ~70%)</strong></li>\n<ul>\n<li> Build and implement features from architectural specifications </li>\n<li> Develop modern UI components, dashboards, and workflows using React and Next.js </li>\n<li> Build and maintain API routes with validation, pagination, and error handling </li>\n<li> Debug and maintain third-party integrations and APIs </li>\n<li> Implement webhook pipelines and asynchronous data workflows </li>\n<li> Manage background jobs and workflow orchestration </li>\n<li> Contribute to database design, migrations, and row-level security (RLS) policies </li>\n<li> Write unit and integration tests to ensure system reliability </li>\n</ul>\n<li><strong>Healthcare B2B Platform (~30%)</strong></li>\n<ul>\n<li> Develop onboarding flows and role-based interfaces </li>\n<li> Build and maintain authentication systems </li>\n<li> Integrate with third-party healthcare and pharmacy APIs </li>\n<li> Implement validation, audit logging, and compliance-aware features </li>\n<li> Troubleshoot bugs and improve system workflows </li>\n</ul>\n<li><strong>Additional Product Work (As Needed)</strong></li>\n<ul><li> Support feature enhancements and maintenance for a stable audience intelligence platform </li></ul>\n<li><strong>General Responsibilities</strong></li>\n<ul>\n<li> Execute development tasks with high reliability and attention to detail </li>\n<li> Collaborate through Git-based workflows, PR reviews, and structured documentation </li>\n<li> Troubleshoot API, integration, and system-level issues </li>\n<li> Use AI tools to improve development efficiency and output quality</li>\n</ul>\n</ul><h3>Requirements</h3><h3><strong>Core Technical Skills</strong></h3><ul>\n<li> 2–4+ years of experience with <strong>TypeScript</strong> (strict mode, generics, strong typing) </li>\n<li> Strong experience with <strong>Next.js</strong> (App Router, API routes, middleware) </li>\n<li> Proficiency in <strong>React</strong> with modern component architecture </li>\n<li> Solid experience with <strong>PostgreSQL</strong> (queries, joins, schema design, RLS) </li>\n<li> Experience with <strong>Supabase</strong> or similar BaaS platforms (auth, database, storage, edge functions) </li>\n</ul><h3><strong>Technical Experience</strong></h3><ul>\n<li> REST API integrations and debugging </li>\n<li> Handling third-party API inconsistencies and failures </li>\n<li> Webhooks and asynchronous data processing </li>\n<li> Background jobs and workflow orchestration </li>\n<li> Git workflows (feature branches, pull requests, code reviews) </li>\n</ul><h3><strong>Nice to Have</strong></h3><ul>\n<li> Experience with multi-tenant SaaS platforms </li>\n<li> Exposure to AI or voice-based systems </li>\n<li> Experience working with HIPAA-compliant or regulated environments </li>\n<li> Strong understanding of system design and integration patterns</li>\n</ul><h3><strong>How You’ll Work</strong></h3><ul>\n<li> Async-first communication environment </li>\n<li> Documentation-driven development </li>\n<li> All code reviewed via pull requests before merging </li>\n<li> Strong focus on clean, reliable execution over unnecessary complexity </li>\n<li> Collaborative team culture with encouragement to ask questions early </li>\n</ul><h3><strong>Growth Opportunity</strong></h3><ul>\n<li> Increased ownership across systems and architecture </li>\n<li> Opportunity to lead projects and step into senior responsibilities </li>\n<li> Exposure to multiple SaaS products across AI, healthcare, and data platforms </li>\n</ul><h3><strong>Ideal Candidate</strong></h3><ul>\n<li> Detail-oriented and highly reliable </li>\n<li> Strong problem-solver, especially in debugging complex systems </li>\n<li> Comfortable working independently within structured systems </li>\n<li> Clear and proactive communicator </li>\n<li> Able to balance speed with high-quality output</li>\n</ul><h3>Benefits</h3><p>💰 Competitive salary based on experience and region</p><p> 🌎 Fully remote role with flexible working environment </p><p> 🚀 Work on cutting-edge AI and multi-product SaaS platforms </p><p> 📈 Long-term growth with opportunities for leadership and ownership </p><p> 🧠 Exposure to complex systems, integrations, and scalable architectures </p><p> 🎯 High-impact role contributing directly to product development</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1792967281,
+   "expiryDate": 1798151281,
+   "applicationLink": "https://himalayas.app/companies/huzzle/jobs/senior-fullstack-engineer-typescript-next-js-supabase?utm_source=api",
+   "guid": "https://himalayas.app/companies/huzzle/jobs/senior-fullstack-engineer-typescript-next-js-supabase"
+  },
+  {
+   "title": "Senior Python developer",
+   "excerpt": "We are looking for a talented and experienced SeniorPython Developer to join our creative team and contribute to the development of cutting-edge solutions that align with our commitment to excellence.",
+   "companyName": "Hivex",
+   "companySlug": "hivex",
+   "companyLogo": "https://cdn-images.himalayas.app/tscbts3inxevaxnd6lj8tvl4xm7v",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Python-Developer",
+    "Python-Engineer",
+    "Backend-Engineer",
+    "Software-Engineer",
+    "Senior-Python-Engineer",
+    "Senior-Python-Software-Engineer",
+    "Senior-Python-Backend-Developer",
+    "Senior-Backend-Python-Developer",
+    "Senior-Python-Developer-(South-America)"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p>We are looking for a talented and experienced <strong>Senior</strong><strong>Python Developer</strong> to join our creative team and contribute to the development of cutting-edge solutions that align with our commitment to excellence. </p><p>﻿<strong>Requirements:</strong></p><ul>\n<li>﻿﻿7+ years of commercial experience as a Python Developer with focus on FastAPI</li>\n<li>Experience with ﻿﻿Supabase </li>\n<li>Experience with ﻿parallelization﻿</li>\n<li>Knowledge of version control systems (e.g., Git).</li>\n<li>Advanced English level</li>\n<li>Excellent problem-solving and communication skills.</li>\n<li>Ability to work both independently and collaboratively in a team environment.</li>\n</ul><h3>Responsibilities: </h3><ul>\n<li>Collaborate with the development team to design and implement high-quality software solutions using Python</li>\n<li>Participate in all phases of the software development life cycle, including requirements gathering, design, coding, testing, and deployment</li>\n<li>Debug, troubleshoot, and optimize application code to ensure performance and reliability</li>\n<li>Work closely with other teams, such as product management and quality assurance, to deliver high-quality software solutions</li>\n<li>Stay up-to-date with the latest trends and best practices in Python development﻿</li>\n</ul><p><strong>﻿What we offer:</strong></p><ul>\n<li><strong>Remote job with the freedom to work from anywhere in the world.</strong></li>\n<li><strong>Flexible work schedule tailored to your life and work needs.</strong></li>\n<li><strong>Competitive and timely salary.</strong></li>\n<li><strong>Opportunities for professional growth and development.</strong></li>\n<li><strong>The chance to gain experience in various fields and participate in exciting projects.</strong></li>\n<li><strong>Your ideas and initiatives are always welcome and valued</strong></li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1793535612,
+   "expiryDate": 1796973850,
+   "applicationLink": "https://himalayas.app/companies/hivex/jobs/senior-python-developer-2556587688?utm_source=api",
+   "guid": "https://himalayas.app/companies/hivex/jobs/senior-python-developer-2556587688"
+  },
+  {
+   "title": "AI Developer",
+   "excerpt": "AI Developer – RemotePosition Type: Full-Time, Remote Working Hours: Monday–Friday, 8:00 AM – 5:00 PM U.",
+   "companyName": "Pavago",
+   "companySlug": "pavago",
+   "companyLogo": "https://cdn-images.himalayas.app/q1g70vrjd2dhofu56e7xj9wodx8e",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "South Africa"
+   ],
+   "timezoneRestrictions": [
+    2
+   ],
+   "categories": [
+    "AI-Developer",
+    "AI-Engineering",
+    "AI-Agent-Development",
+    "Machine-Learning-Engineering",
+    "Backend-Development",
+    "AI-ML-Developer",
+    "AI-Development-Engineer",
+    "AI-Application-Developer",
+    "AI-Development-Specialist",
+    "AI-Solutions-Developer"
+   ],
+   "parentCategories": [],
+   "description": "<h3><strong>AI Developer – Remote</strong></h3><p><strong>Position Type:</strong> Full-Time, Remote<br><strong>Working Hours:</strong> Monday–Friday, 8:00 AM – 5:00 PM U.S. Mountain Time</p><h3><strong>About the Role</strong></h3><p>At <a href=\"https://himalayas.app/companies/pavago\">Pavago</a>, one of our clients is hiring an <strong>AI Developer</strong> to help build the next generation of AI-powered solutions as they transition into a native-AI agency.</p><p>This is a hands-on role focused on designing, building, and maintaining AI agents using modern AI development tools and automation frameworks. You’ll own projects from scoping through deployment, working closely with leadership to build scalable, production-ready AI systems.</p><p>If you enjoy building AI agents, solving complex problems, and taking ownership of technical decisions, we’d love to hear from you.</p><h3><strong>Key Responsibilities</strong></h3><h3><strong>AI Agent Development</strong></h3><ul>\n<li>Design, build, and maintain AI agents that power the company’s transition to a native-AI agency.</li>\n<li>Own the full development lifecycle from scoping through deployment.</li>\n<li>Monitor agent performance, identify failures, and continuously improve AI capabilities.</li>\n</ul><h3><strong>Tooling &amp; Orchestration</strong></h3><ul>\n<li>Build reliable AI workflows using <strong>Claude Code</strong>, <strong>OpenAI Codex</strong>, and <strong>Inngest</strong>.</li>\n<li>Develop scalable automation pipelines and event-driven workflows.</li>\n</ul><h3><strong>Backend &amp; Data Layer</strong></h3><ul>\n<li>Develop and manage solutions using <strong>Supabase</strong>.</li>\n<li>Build and maintain database schemas, authentication, and real-time functionality to support AI agents.</li>\n</ul><h3><strong>Technical Ownership</strong></h3><ul>\n<li>Take full ownership of AI architecture, tooling decisions, and production quality.</li>\n<li>Work independently while making technical decisions with minimal oversight.</li>\n</ul><h3><strong>Required Experience &amp; Skills</strong></h3><ul>\n<li>At least <strong>1 year of professional experience</strong> building AI agents or AI-powered applications.</li>\n<li>Experience with <strong>Claude Code</strong> and/or <strong>OpenAI Codex</strong> for AI development and code generation.</li>\n<li>Working knowledge of <strong>Inngest</strong> for event-driven orchestration and background jobs.</li>\n<li>Hands-on experience with <strong>Supabase</strong>, including database design, authentication, and real-time features.</li>\n<li>Comfortable working independently as the primary AI developer.</li>\n<li>Availability to work <strong>U.S. Mountain Time (8:00 AM – 5:00 PM)</strong>.</li>\n</ul><h3><strong>What Makes You a Great Fit</strong></h3><ul>\n<li>You take ownership and proactively identify what needs to be built.</li>\n<li>You’re comfortable working in a fast-changing environment with evolving requirements.</li>\n<li>You communicate clearly and proactively, especially when blocked or shipping new work.</li>\n<li>You focus on practical, working solutions and know when to prototype versus optimize.</li>\n</ul><h3><strong>What a Typical Day Looks Like</strong></h3><ul>\n<li>Review AI agent logs and resolve production issues.</li>\n<li>Build new AI agents and extend Inngest workflows.</li>\n<li>Develop and maintain Supabase databases and integrations.</li>\n<li>Participate in standups or async team updates.</li>\n<li>Document completed work and communicate technical decisions.</li>\n<li>Own projects from design through deployment without handoffs.</li>\n</ul><h3><strong>Interview Process</strong></h3><ol>\n<li>Application Review</li>\n<li><strong>Spark Hire Intro Video (3–5 minutes)</strong></li>\n<li>AI Technical Assessment</li>\n<li>Recruiter Interview</li>\n<li>Client Interview</li>\n<li>Offer &amp; Onboarding</li>\n</ol><h3><strong>What Happens After You Apply</strong></h3><p>After submitting your application, you’ll receive an email invitation from <strong>Spark Hire</strong> to record a short <strong>3–5 minute Intro Video</strong>. This is the first step in our hiring process and can be completed whenever it’s convenient for you.</p><p>Instead of repeating your experience across multiple screening calls, you’ll have one opportunity to introduce yourself and discuss your experience building AI agents, working with tools like Claude Code, Codex, Inngest, and Supabase, and solving real-world technical challenges. Your video will be reviewed before moving forward to the next stage.</p><p>You can record your video as many times as you’d like before submitting it—only your final version will be reviewed.</p><p>Please keep an eye on both your <strong>inbox</strong> and <strong>spam folder</strong> for your Spark Hire invitation after applying.</p><h3><strong>Apply Now</strong></h3><p>If you’re excited about building AI agents, owning technical decisions, and helping shape the future of an AI-first company, we’d love to hear from you. Apply today to join a fast-moving team building production-ready AI solutions.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1792971337,
+   "expiryDate": 1798155337,
+   "applicationLink": "https://himalayas.app/companies/pavago/jobs/ai-developer?utm_source=api",
+   "guid": "https://himalayas.app/companies/pavago/jobs/ai-developer"
+  },
+  {
+   "title": "Python React Fullstack Engineer LATAM",
+   "excerpt": "Founding Full-Stack Engineer (Remote - LATAM) Healthcare AI Startup | Seed Stage | Y Combinator-Backed About the CompanyWell-funded seed-stage startup (1-10 employees, founded 2025) building an AI-powered virtual healthcare assistant that serves as a personal primary care physician.",
+   "companyName": "A5 Talent Finders",
+   "companySlug": "a5-talent-finders",
+   "companyLogo": "https://cdn-images.himalayas.app/gc86zj42yh0jc9kmujsfyss5xq2r",
+   "employmentType": "Full Time",
+   "minSalary": 60000,
+   "maxSalary": 96000,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [
+    "Anguilla",
+    "Antigua and Barbuda",
+    "Argentina",
+    "Aruba",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Bermuda",
+    "Bolivia",
+    "Bonaire, Sint Eustatius and Saba",
+    "Brazil",
+    "Cayman Islands",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Dominica",
+    "Dominican Republic",
+    "Ecuador",
+    "El Salvador",
+    "Falkland Islands (Malvinas)",
+    "Grenada",
+    "Guatemala",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Mexico",
+    "Montserrat",
+    "Nicaragua",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Puerto Rico",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "South Georgia and the South Sandwich Islands",
+    "Suriname",
+    "Trinidad and Tobago",
+    "Turks and Caicos Islands",
+    "Uruguay",
+    "Venezuela",
+    "Virgin Islands, British",
+    "Virgin Islands, U.S."
+   ],
+   "timezoneRestrictions": [
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3,
+    -2
+   ],
+   "categories": [
+    "Full-Stack-Engineer",
+    "Full-Stack-Developer",
+    "Software-Engineer",
+    "Backend-Engineer",
+    "Frontend-Engineer",
+    "Senior-Python-Developer-(South-America)",
+    "Senior-Full-Stack-Engineer-(JavaScript-Python)",
+    "Senior-Full-Stack-Developer-(JavaScript-Python)"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p>Founding Full-Stack Engineer (Remote - LATAM)</p><p><strong>Healthcare AI Startup | Seed Stage | Y Combinator-Backed</strong></p><h3>About the Company</h3><p>Well-funded seed-stage startup (1-10 employees, founded 2025) building an AI-powered virtual healthcare assistant that serves as a personal primary care physician. The platform aggregates medical records, wearable data, and lab results to deliver personalized health insights and recommendations. Recently raised $2.5M seed round and collaborates with physicians at leading medical institutions. A5 is engaged with a startup client in the PST time zone.</p><h3>Key Job Information</h3><ul>\n<li><strong>100% Remote Based</strong></li>\n<li>\n<strong>Corporate Location:</strong><ul><li>HQ in San Francisco, CA </li></ul>\n</li>\n<li>\n<strong>Employment:</strong><ul><li>Full-Time</li></ul>\n</li>\n<li>\n<strong>Experience Required:</strong><ul><li>3+ years</li></ul>\n</li>\n<li>\n<strong>Salary Range:</strong><ul><li>$60,000 - $96,000 annually ($5,000 - $8,000/month)</li></ul>\n</li>\n<li>\n<strong>Visa Sponsorship:</strong><ul><li>Not available</li></ul>\n</li>\n<li>\n<strong>Work Schedule:</strong><ul><li>5-6 days per week, PST hours</li></ul>\n</li>\n</ul><h3>Role Overview</h3><p>As a founding full-stack engineer, you'll be instrumental in shaping the technical direction and product roadmap of this healthcare AI platform. You'll own end-to-end feature development from architecture through deployment, working directly with the founding team to revolutionize personalized healthcare delivery.</p><h3>Technical Stack</h3><h3>Front-end:</h3><ul>\n<li>React</li>\n<li>TypeScript</li>\n</ul><h3>Back-end:</h3><ul>\n<li>Python</li>\n<li>TypeScript</li>\n<li>Node.js</li>\n<li>Supabase</li>\n</ul><h3>Cloud &amp; Infrastructure:</h3><ul>\n<li>AWS (required)</li>\n<li>AWS HealthLake (preferred)</li>\n</ul><h3>AI/ML (Plus):</h3><ul>\n<li>LLM development experience</li>\n<li>LangChain/LangGraph</li>\n</ul><h3>Requirements</h3><ul>\n<li>3-6 years of full-stack web development experience</li>\n<li>Proficient in React and TypeScript for front-end development</li>\n<li>Strong back-end experience with Python, TypeScript, Node.js, and Supabase</li>\n<li>Demonstrated AWS expertise, particularly with HealthLake</li>\n<li>Availability to work 5-6 days per week during PST business hours</li>\n</ul><h3>What We Offer</h3><ul>\n<li>Competitive compensation with significant founding engineer equity potential</li>\n<li>Ground-floor opportunity at a mission-driven, well-funded startup</li>\n<li>Direct collaboration with Stanford CS graduate founders</li>\n<li>Cutting-edge healthcare technology using modern frameworks and tools</li>\n<li>Meaningful impact on patient outcomes and healthcare accessibility</li>\n<li>Remote-first culture</li>\n</ul><h3>Interview Process</h3><ol>\n<li>Introductory Call (30 minutes)</li>\n<li>Live Coding Interview (1.5 hours)</li>\n<li>Work Trial</li>\n<li>Offer Extended</li>\n<li>Onboarding</li>\n</ol><p><em>Join us in building the future of personalized healthcare through innovative AI technology.</em></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1793535344,
+   "expiryDate": 1797051893,
+   "applicationLink": "https://himalayas.app/companies/a5-talent-finders/jobs/python-react-fullstack-engineer-latam?utm_source=api",
+   "guid": "https://himalayas.app/companies/a5-talent-finders/jobs/python-react-fullstack-engineer-latam"
+  },
+  {
+   "title": "Full-Stack & Mobile Engineer",
+   "excerpt": "IntroFor this position we are only looking for candidates located in Greece, Germany or Austria.",
+   "companyName": "Nairon",
+   "companySlug": "nairon",
+   "companyLogo": "https://cdn-images.himalayas.app/fsx8uoa7irpiblxj0jx35kke8d5l",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Austria",
+    "Germany",
+    "Greece"
+   ],
+   "timezoneRestrictions": [
+    1,
+    2
+   ],
+   "categories": [
+    "Full-Stack-Engineer",
+    "Mobile-Engineer",
+    "React-Developer",
+    "Front-End-Developer",
+    "Software-Engineer",
+    "Full-Stack-Mobile-Engineer",
+    "Full-Stack-Mobile-Engineering",
+    "Full-Stack-Mobile-Development",
+    "Mobile-Software-Engineer",
+    "Full-Stack-Web-Developer",
+    "Full-Stack-Engineering",
+    "Mobile-Application-Engineer",
+    "Full-Stack-JavaScript-Engineer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<h3>Intro</h3><p><em>For this position we are only looking for <strong>candidates located in Greece, Germany or Austria</strong>.</em></p><p><a href=\"https://himalayas.app/companies/nairon\">Nairon</a> GmbH is a Swiss startup building AI voice agents that answer and make phone calls for businesses. Our platform runs real-time conversations over the phone and on the web, connected to our customers' telephony and business tools. We value clear communication, thoughtful engineering, and a collaborative approach to problem-solving. Join us as we continue to develop tools that make a difference.</p><h3>Tasks</h3><p>As a Full-Stack &amp; Mobile Engineer at <a href=\"https://himalayas.app/companies/nairon\">Nairon</a> GmbH, you will build our product on the web and on the phone in the customer's hand. Your responsibilities will include:</p><ul>\n<li>Designing, developing and maintaining our web application with <em>Next.js, React, Tailwind CSS</em> and <em>TypeScript</em>: the flow editor, call analytics, billing and partner tools.</li>\n<li>Building our native companion app with <em>Expo / React Native</em> or <em>Swift</em>.</li>\n<li>Building features across the stack, from the user interface to the database with <em>Prisma</em> and PostgreSQL, and the <em>Python</em> services behind them.</li>\n<li>Owning features end to end: turning customer needs into requirements, shipping them and checking that they help.</li>\n<li>Applying DevOps practices to support development and deployment, including <em>Docker</em> and, when appropriate, <em>Kubernetes</em>.</li>\n<li>Participating in technical discussions, code reviews and architectural planning.</li>\n</ul><h3>Requirements</h3><h3>Experience:</h3><p>Any relevant experience in web or mobile development is welcome; we are open to junior, mid-level and senior candidates who demonstrate strong practical skills and a willingness to learn.</p><h3>Technical Skills:</h3><h3>Required:</h3><ul>\n<li>Proficiency with <em>Next.js</em>, <em>React</em> and <em>TypeScript</em>.</li>\n<li>Experience building mobile apps with <em>Expo / React Native</em>, <em>Swift</em> or a comparable stack.</li>\n</ul><h3>Nice to have:</h3><ul>\n<li>\n<em>Tailwind CSS</em>, <em>Prisma</em>, PostgreSQL or <em>Supabase</em>.</li>\n<li>\n<em>Python</em> and <em>FastAPI</em> for backend services.</li>\n<li>\n<em>Docker</em> and <em>Kubernetes</em> basics; experience with real-time features, audio or AI products.</li>\n</ul><h3>Communication:</h3><ul>\n<li><em><strong>English proficiency is essential</strong>, both written and spoken, as it is the working language for all positions.</em></li>\n<li>German is a plus.</li>\n</ul><h3>Soft Skills:</h3><ul>\n<li>Ability to work independently and as part of a distributed team.</li>\n<li>Product sense: you ask why before you build.</li>\n<li>Willingness to take ownership of features and contribute to team discussions.</li>\n</ul><h3>Benefits</h3><ul>\n<li>\n<strong>Flexible Work Setup:</strong> Work fully remotely or from a co-working space — whichever suits you best.</li>\n<li>\n<strong>Equipment Provided:</strong> Company laptop and phone provided for all employees.</li>\n<li>\n<strong>Collaborative Environment:</strong> Join a small, agile team where your contributions have a direct impact.</li>\n<li>\n<strong>Growth Opportunities:</strong> Web, backend and mobile in one role, with the chance to expand into AI-related work over time.</li>\n</ul><h3>Closing</h3><p>If you're excited about building a product people use on the web and on their phones, we'd love to hear from you.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1793534924,
+   "expiryDate": 1797395392,
+   "applicationLink": "https://himalayas.app/companies/nairon/jobs/full-stack-mobile-engineer?utm_source=api",
+   "guid": "https://himalayas.app/companies/nairon/jobs/full-stack-mobile-engineer"
+  },
+  {
+   "title": "Tech Lead - Solution Architect",
+   "excerpt": "OverviewRole: Lead the technical architecture and define best practices across React Native + serverless + data layer.",
+   "companyName": "Cobden & Carter International",
+   "companySlug": "cobden-carter-international",
+   "companyLogo": "https://cdn-images.himalayas.app/20nhapj50isw882kywvi2zyyhqay",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Philippines"
+   ],
+   "timezoneRestrictions": [
+    8
+   ],
+   "categories": [
+    "Technical-Lead",
+    "Solutions-Architect",
+    "Software-Architecture",
+    "Cloud-Architecture",
+    "Technology-Leadership",
+    "Solution-Architect-Lead",
+    "Technical-Solution-Architect",
+    "Technical-Solutions-Architect",
+    "Senior-Technical-Solutions-Architect",
+    "Technical-Solutions-Lead",
+    "Solutions-Development-Architect",
+    "Technical-Solutions-Architecture-Advisor",
+    "IT-Solutions-Architect",
+    "IT-Solution-Architect"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<h3>Overview</h3><p><strong>Role:</strong> Lead the technical architecture and define best practices across React Native + serverless + data layer.</p><h3>Responsibilities</h3><h3>You will:</h3><ul>\n<li>Interface with product management and drive team to meet feature roadmap.</li>\n<li>Set the end-to-end architecture (Expo / EAS + Supabase + Drizzle) and technical roadmap.</li>\n<li>Define coding standards, modules, and tooling that speed teams up (CI/CD, IaC / ORM, AI tooling).</li>\n<li>Drive reliability and security standards (SLOs, basic guardrails) without slowing delivery.</li>\n<li>Partner with product to sequence work; mentor engineers; lead design reviews.</li>\n<li>Watch cost/perf and make pragmatic build-vs-buy calls.</li>\n</ul><h3>Qualifications</h3><p><strong>Requirements:</strong> 6+ years building cloud products; strong TypeScript/Node and Postgres fundamentals; proven tech-lead experience guiding teams on serverless stacks.</p><ul>\n<li>a <strong>multi-cloud </strong>expert (meaning that if a candidate has only one cloud experience, it may be a bottleneck as client may be considering migrations and they need to have wider view). AWS, GCP, Azure</li>\n<li>Experience with <strong>EAS (Expo Application Services) </strong>is a must (it should not be an issue)</li>\n<li>\n<strong>Vercel </strong>experience is a huge plus, but it should not be a big issue, as this platform is relatively straightforward. Still, it will be a huge plus</li>\n<li>Any experience with <strong>Digital Ocean </strong>will be beneficial</li>\n<li>All other aspects mentioned in JD: hands-on with TypeScript, NodeJS, React Native, data layer, security, DevOps and SecOs.</li>\n<li>The candidate will be leading the team, he won't be just an individual contributor.</li>\n</ul><h3>Required Skills</h3><p>AWS (4), Google Cloud Platform (GCP) (4), Azure Cloud (4), DevOps (4)</p><h3>Years of Experience Needed</h3><h3>6</h3><h3>﻿Work Setup:</h3><h3>Shift: Mid shift or Night shift</h3><p>Setup: ﻿WFH<br><br>Location: Philippines<br><br>By Applying, you give consent to collect, store, and/or process personal and/or sensitive information for the purpose of recruitment and employment may it be internal to Cobden &amp; Carter International and/or to its clients.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1789290190,
+   "expiryDate": 1794474189,
+   "applicationLink": "https://himalayas.app/companies/cobden-carter-international/jobs/tech-lead-solution-architect?utm_source=api",
+   "guid": "https://himalayas.app/companies/cobden-carter-international/jobs/tech-lead-solution-architect"
+  },
+  {
+   "title": "Full-Stack Developer - Svelte, React & Node.js (LATAM)",
+   "excerpt": "We are looking for a versatile and technically strong Full-Stack Engineer who can design, build, and ship high-quality applications across frontend, backend, and real-time interactive environments.",
+   "companyName": "iDelsoft",
+   "companySlug": "idelsoft",
+   "companyLogo": "https://cdn-images.himalayas.app/ldsycxqf1baot53gdvrxckm0upwh",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Argentina",
+    "Belize",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Ecuador",
+    "El Salvador",
+    "Falkland Islands (Malvinas)",
+    "French Guiana",
+    "Guatemala",
+    "Guyana",
+    "Honduras",
+    "Nicaragua",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+   ],
+   "timezoneRestrictions": [
+    -6,
+    -5,
+    -4,
+    -3,
+    -2
+   ],
+   "categories": [
+    "Full-Stack-Developer",
+    "Front-End-Developer",
+    "Backend-Engineer",
+    "Desenvolvedor-Full-Stack",
+    "Full-Stack-Developer-React-Node.Js"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p>We are looking for a versatile and technically strong<strong> Full-Stack Engineer</strong> who can design, build, and ship high-quality applications across frontend, backend, and real-time interactive environments. You will own features end to end — from UI implementation and 3D experiences to backend logic and cloud deployment — in a fast-moving, high-trust team where your decisions have direct impact.</p><p>The focus of this role is building modern, real-time, and interactive web experiences, combining clean frontend architecture with immersive 3D capabilities and scalable backend systems. This is a hands-on role with strong ownership and influence over technical direction and product quality.</p><h5>Full-Time | Remote | EST time zone<br><br><br><br><strong>Key Responsibilities</strong>\n</h5><ul>\n<li>Build and maintain responsive, high-performance frontend applications using Svelte.</li>\n<li>Develop interactive and real-time experiences using Three.js and/or Unity (C#).</li>\n<li>Design, implement, and maintain backend services, APIs, and database schemas.</li>\n<li>Work with Supabase to manage data, authentication, and real-time subscriptions.</li>\n<li>Deploy and manage applications using Cloudflare (Workers, Pages) and Vercel.</li>\n<li>Participate in the full development lifecycle: planning, architecture, implementation, and deployment.</li>\n<li>Write clean, maintainable, and well-tested code following best practices.</li>\n<li>Collaborate closely with cross-functional teams to deliver scalable and user-centric solutions.</li>\n<li>Contribute to architectural decisions and continuously improve system performance and reliability.<br><br><strong>Key Requirements</strong>\n</li>\n<li>4+ years of professional software development experience.</li>\n<li>Strong proficiency in modern frontend development (Svelte preferred or willingness to adopt it fully).</li>\n<li>Experience with real-time 3D rendering using Three.js, Unity, or similar technologies.</li>\n<li>Solid experience with backend development using Node.js.</li>\n<li>Experience working with PostgreSQL-based systems or BaaS platforms like Supabase.</li>\n<li>Familiarity with serverless and edge environments (Cloudflare Workers or similar).</li>\n<li>Strong understanding of frontend architecture, state management, and performance optimization.</li>\n<li>Ability to work across the full stack with a product-oriented mindset.</li>\n<li>Excellent communication skills and ability to clearly explain technical decisions.<br><br><strong>Nice to Have</strong>\n</li>\n<li>Experience integrating AI/LLM APIs or building AI-assisted features.</li>\n<li>Familiarity with real-time systems and event-driven architectures.</li>\n<li>Experience working in small, fast-moving teams with high ownership.</li>\n<li>Exposure to CI/CD pipelines and modern deployment workflows.<br><br><strong>Why Join Us</strong>\n</li>\n<li>Work in a small, high-impact team where your contributions directly shape the product.</li>\n<li>Own features end to end and influence architectural decisions.</li>\n<li>Build cutting-edge real-time and 3D web experiences.</li>\n<li>Flexible remote environment with fast iteration and minimal bureaucracy.</li>\n</ul><p><strong>Tech Stack</strong><br>Svelte (frontend), Three.js &amp; Unity C# (real-time/3D), Node.js (backend services &amp; APIs), Supabase (PostgreSQL, auth, real-time), Cloudflare (edge infrastructure), Vercel (frontend deployment &amp; CI/CD)<br></p><h5><strong>Benefits</strong></h5><ul>\n<li>100% remote</li>\n<li>Competitive salary in USD</li>\n<li>PTO (vacation, sick leave, holidays)</li>\n<li>International experience</li>\n<li>Udemy trainings covered</li>\n<li>$200 for home-office equipment</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1793535841,
+   "expiryDate": 1796813865,
+   "applicationLink": "https://himalayas.app/companies/idelsoft/jobs/full-stack-developer-svelte-react-node-js-latam?utm_source=api",
+   "guid": "https://himalayas.app/companies/idelsoft/jobs/full-stack-developer-svelte-react-node-js-latam"
+  },
+  {
+   "title": "Analytics Engineer",
+   "excerpt": "Why WarriorBabe?  At WarriorBabe, we believe in the power of dedication and personal growth.",
+   "companyName": "WarriorBabe",
+   "companySlug": "warriorbabe",
+   "companyLogo": "https://cdn-images.himalayas.app/vtrah3rvg9jf9h3wpchp93ifr2l9",
+   "employmentType": "Contractor",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Brazil"
+   ],
+   "timezoneRestrictions": [
+    -5,
+    -4,
+    -3,
+    -2
+   ],
+   "categories": [
+    "Analytics-Engineer",
+    "Data-Engineer",
+    "Business-intelligence-Engineer",
+    "Data-Analyst"
+   ],
+   "parentCategories": [
+    "Data Science"
+   ],
+   "description": "<div>\n<p><b><strong>Why <a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a>?</strong></b><br><br>At <a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a>, we believe in the power of dedication and personal growth.  You'll be surrounded by a vibrant team that shares your passion for fitness and helping women flourish.  Together, we are on a mission to transform lives and create a community that thrives on empowerment.</p>\n<p>Offering personalized macronutrient plans and workout programming, <a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a> ensures each woman's unique needs are met.  With one-on-one coaching, a dedicated mobile app, and a vibrant online community, <a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a> provides the tools and support necessary for lasting success.  Ideal for women of all ages and fitness levels, <a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a> adapts to ensure continuous progress and achievement of fitness goals.</p>\n<p><b><strong>Our Mission</strong></b></p>\n<p>Help 100,000 women regain their personal power and feel confident in their skin.</p>\n</div><div>\n<p><b><strong>About the role</strong></b></p>\n<p><a href=\"https://himalayas.app/companies/warriorbabe\">WarriorBabe</a> is seeking an Analytics Engineer who can own the reliability and performance of our Supabase/PostgreSQL database and turn business data into clear, actionable insights.</p>\n<p>You will maintain data integrations and refresh processes, develop reliable data models, and build useful Metabase dashboards. You will also work directly with leadership and business teams to investigate performance, explain what is driving results, identify opportunities, and recommend measurable actions.</p>\n<p>You will help evaluate and improve our data architecture as the business evolves. We welcome recommendations grounded in business needs, reliability, performance, maintainability, and cost.</p>\n<p>Success means keeping the data accurate, current, and well documented—and using it to help the business make better decisions.</p>\n<p><b><strong>Key Responsibilites</strong></b></p>\n<h3>Database ownership and performance</h3>\n<ul>\n<li>Manage and improve our Supabase/PostgreSQL reporting database, including tables, views, materialized views, indexes, and SQL queries.</li>\n<li>Diagnose slow queries, blocking, failed refreshes, and resource bottlenecks; use evidence to prioritize improvements.</li>\n<li>Maintain appropriate permissions, review schema changes, and support backup and recovery readiness.</li>\n<li>Plan and validate database changes with clear dependency checks, migration steps, and rollback procedures.</li>\n<li>Evaluate the existing architecture and recommend practical improvements while preserving reporting continuity.</li>\n</ul>\n<h3>Data integrations and n8n</h3>\n<ul>\n<li>Build, maintain, and troubleshoot production n8n workflows used for data ingestion, synchronization, and reporting.</li>\n<li>Maintain Fivetran connections and custom API integrations, with clear ownership of each source, writer, destination, and downstream dependency.</li>\n<li>Work with CRM, ERM, and other business systems as required.</li>\n<li>Handle authentication, pagination, rate limits, duplicate events, partial failures, retries, and safe backfills.</li>\n<li>Monitor actual data delivery and freshness, including failures that may be hidden behind a successful workflow or scheduler status.</li>\n</ul>\n<h3>Data modeling and reporting reliability</h3>\n<ul>\n<li>Develop reusable SQL models with clear record definitions, keys, relationships, and treatment of historical changes.</li>\n<li>Maintain agreed definitions for revenue, clients, conversion, refunds, renewals, retention, and other business metrics.</li>\n<li>Reconcile reporting with its underlying sources and distinguish missing data from a verified zero.</li>\n<li>Prevent duplicate counts and inconsistent totals across dashboards, including differences caused by dates, time zones, attribution, or counting rules.</li>\n<li>Document data lineage, metric definitions, refresh behavior, known limitations, and operating procedures.</li>\n</ul>\n<h3>Metabase dashboards</h3>\n<ul>\n<li>Build and maintain Metabase dashboards, saved questions, filters, and record-level drill-throughs.</li>\n<li>Translate stakeholder questions into reporting that supports a specific business decision.</li>\n<li>Verify saved configuration and the dashboard users actually see, including filters, totals, drill-throughs, and links to operational records.</li>\n<li>Maintain documentation alongside analytical dashboards and preserve dependent reports when making changes.</li>\n</ul>\n<h3>Business analysis and insights</h3>\n<ul>\n<li>Proactively analyze acquisition, sales conversion, revenue, refunds, renewals, retention, and coaching performance.</li>\n<li>Investigate performance changes by relevant cohorts, products, channels, teams, and time periods.</li>\n<li>Distinguish business changes from data-quality problems and clearly separate evidence, hypotheses, and remaining uncertainty.</li>\n<li>Present findings with their business impact, recommended action, and a practical way to measure the result.</li>\n<li>Partner with business owners to evaluate whether actions taken improved outcomes.</li>\n</ul>\n<h3>AI-assisted development and analysis</h3>\n<ul>\n<li>Use AI tools such as Claude or OpenAI to accelerate SQL development, data modeling, n8n workflow design, troubleshooting, documentation, and business analysis.</li>\n<li>Use AI to explore patterns, develop hypotheses, review queries and calculations, and identify potential errors or edge cases.</li>\n<li>Validate AI-generated code, calculations, and conclusions against source data and reproducible checks before deploying changes or presenting findings.</li>\n<li>Protect confidential information and protected health information (PHI) when using AI, following company policies and using approved tools.</li>\n</ul>\n<p><b><strong>Qualifications</strong></b></p>\n<ul>\n<li>Hands-on ownership of a production PostgreSQL or Supabase database, including troubleshooting and performance optimization.</li>\n<li>Strong SQL skills, including joins, CTEs, window functions, aggregation, query plans, and indexing.</li>\n<li>Practical experience building and troubleshooting production n8n workflows. Be prepared to explain a workflow you personally implemented and how it handled failures.</li>\n<li>Experience with API integrations, webhooks, authentication, pagination, rate limits, and reliable synchronization.</li>\n<li>Experience with Metabase or a comparable BI platform, with the ability to work hands-on in Metabase.</li>\n<li>Demonstrated ability to investigate business performance, quantify findings, and recommend actions.</li>\n<li>Practical experience using AI tools such as Claude or OpenAI to build, improve, analyze, and check work, with the ability to explain and independently verify the results.</li>\n<li>Ability to explain technical issues and business conclusions clearly to nontechnical stakeholders.</li>\n<li>Experience using Git and maintaining clear technical documentation and controlled production changes.</li>\n</ul>\n<p><b><strong>Preferred Experience</strong></b></p>\n<ul>\n<li>Working knowledge of HIPAA and the privacy and security considerations involved in handling protected health information (PHI) across databases, integrations, and reporting.</li>\n<li>CRM and ERM data structures, relationships, and integrations.</li>\n<li>Fivetran configuration and monitoring.</li>\n<li>Payment, subscription, refund, renewal, or customer-retention reporting.</li>\n<li>Python or JavaScript for scripting and automation.</li>\n<li>Experience with Metabase for understanding and reconciling existing reports.</li>\n</ul>\n<p><b><strong>What Success Looks Like</strong></b></p>\n<ul>\n<li>Business teams can understand what key metrics mean and trace results to supporting records.</li>\n<li>Data integrations and reporting refreshes operate within agreed freshness and completeness expectations, with actionable monitoring.</li>\n<li>Database and dashboard improvements have documented validation and preserve dependent reporting.</li>\n<li>Leadership receives useful explanations and recommendations, with follow-up on the actions taken.</li>\n<li>Architecture recommendations include their benefits, tradeoffs, costs, and a practical implementation path.</li>\n</ul>\n<p><b><strong>Why Join Us</strong></b></p>\n<ul>\n<li>Fully remote work with flexibility and Eastern Time overlap.</li>\n<li>Ownership across the database, integrations, reporting, and business analysis.</li>\n<li>Direct collaboration with business leaders and the opportunity to influence decisions.</li>\n<li>An environment that values precision, clear communication, and practical improvements.</li>\n</ul>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1793334171,
+   "expiryDate": 1798518170,
+   "applicationLink": "https://himalayas.app/companies/warriorbabe/jobs/analytics-engineer?utm_source=api",
+   "guid": "https://himalayas.app/companies/warriorbabe/jobs/analytics-engineer"
+  }
+ ]
+}

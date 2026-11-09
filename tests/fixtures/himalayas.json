@@ -1,0 +1,324 @@
+{
+ "comments": "21/08/2026: Cursor pagination is now available and is the preferred way to page through the feed. Pass the nextCursor value from each response back as ?cursor=. It is faster than offset and will never return the same job twice. The offset parameter is deprecated and will be removed in a future release. 13/03/2026: The API has been updated to include the companySlug field in the response.",
+ "updatedAt": 1794212634,
+ "offset": 0,
+ "limit": 20,
+ "totalCount": 119903,
+ "nextCursor": "MjAyNi0xMS0wOVQwODoxMTo1Mi4wNzc4NDlafDI1Mjg1MjQ",
+ "jobs": [
+  {
+   "title": "Specialist Sales Support",
+   "excerpt": "Hilton Sans\"; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">Exceptional Hospitality Starts with YouHilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">The location for this position is virtual/remote (within Brazil) Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\">This is your chance to be part of a Sales Support Team that helps achieve success for Hilton Worldwide Sales and key internal and external partners.",
+   "companyName": "Hilton",
+   "companySlug": "hilton",
+   "companyLogo": "https://cdn-images.himalayas.app/50or3ne1q1fvidwgwgsb9be4ysyz",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Entry-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Brazil"
+   ],
+   "timezoneRestrictions": [
+    -5,
+    -4,
+    -3,
+    -2
+   ],
+   "categories": [
+    "Sales-Support-Specialist",
+    "Customer-Support-Specialist",
+    "Sales-Operations-Specialist"
+   ],
+   "parentCategories": [
+    "Customer Service",
+    "Sales"
+   ],
+   "description": "<h3 href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;Exceptional Hospitality Starts with You</h3><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<i>The location for this position is virtual/remote (within Brazil)</i></p><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;This is your chance to be part of a Sales Support Team that helps achieve success for <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> Worldwide Sales and key internal and external partners. You will be reporting to a Manager on the Sales Support Team.</p><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;As a Sales Support Specialist, you'll work closely with <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> Sales teams, clients, and hotels to provide program support, answer questions, audit rates, manage reporting, and ensure processes run smoothly. Your work will directly help our sellers spend more time building relationships and growing business while you help improve efficiency, accuracy, and overall performance.</p><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;This is more than an administrative role, it's an opportunity to collaborate with teams across <a href=\"https://himalayas.app/companies/hilton\">Hilton</a>, contribute to process improvements, support special projects, and help shape better ways of working. You'll help identify opportunities to improve processes, reduce duplicate efforts, and enhance the tools and services that support our customers and sales teams.</p><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;If you enjoy solving problems, working with a variety of partners, and analyzing data, this is a great opportunity. It allows you to improve our results, grow your skills, and be part of a collaborative, high-performing team.</p><h3>What you'll do during a typical day:</h3><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>Be the go-to support partner for <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> account owners, customers, and hotels, delivering follow-up and solutions that help improve business success.</li>\n<li>Manage and prioritize a dynamic workload through Salesforce and other <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> systems, ensuring requests are handled accurately and efficiently.</li>\n<li>Own and respond to shared inbox inquiries, providing exceptional service while building relationships with internal and external customers.</li>\n<li>Stay ahead of needs by reviewing daily priorities, identifying opportunities, and taking proactive action to support sales goals and customer needs.</li>\n<li>Collaborate across teams to provide coverage, improve processes, and contribute to projects that enhance productivity and enhance the customer experience.</li>\n</ul><h3>How you'll collaborate with others:</h3><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>Collaborate and create documentation for both internal and external customers.</li>\n<li>Participate in recurring, informative, peer-to-peer cross-training, team-building, and cross-team events with the support teams.</li>\n<li>Partner with Commercial and Automation teams on Sales system improvement testing.</li>\n</ul><h3>Deliverables you'll take ownership of:</h3><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>Participate in and help complete annual departmental objectives.</li>\n<li>Maintain an understanding of <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> promotional program rules/goal that pertains to your area of support.</li>\n<li>Build ideas to troubleshoot the team's current stressors and contributors to work/life balance, and areas where time or resources are being wasted.</li>\n</ul><h3 href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;What It Takes to Make the Stay</h3><h3>You have these minimum qualifications:</h3><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>One (1) year strong administrative and support experience</li>\n<li>Proficiency in Microsoft Office applications including Excel</li>\n<li>Experience within the travel and/or sales support industry</li>\n<li>Fluent in Portuguese, English and Spanish (both written and verbal)</li>\n</ul><h3>It would be useful if you have:</h3><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>Experience with systems that power <a href=\"https://himalayas.app/companies/hilton\">Hilton</a>'s sales infrastructure (e.g., Salesforce, Cvent)</li>\n<li>Advanced skills in Microsoft Office applications including advanced Excel functions (VLOOKUPS, Pivot Tables, etc.)</li>\n</ul><h3 href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;How We'll Help You Thrive</h3><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;At <a href=\"https://himalayas.app/companies/hilton\">Hilton</a>, the hospitality we're known for doesn't end with our guests. We proudly invest in our Team Members' wellbeing, supporting you through all of life's moments. When you join <a href=\"https://himalayas.app/companies/hilton\">Hilton</a>, our exceptional care extends to you with unmatched perks and benefits, including*:</p><ul href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<li>\n<strong>Incredible travel perks</strong> – Enjoy 110 nights of deeply discounted travel, with room rates as low as $40/night at our world-class hotels through our Go <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> travel program</li>\n<li>\n<strong>Own a piece of <a href=\"https://himalayas.app/companies/hilton\">Hilton</a></strong> – Through our employee stock purchase program (ESPP), you can invest in <a href=\"https://himalayas.app/companies/hilton\">Hilton</a> shares at a 15% discount to help build your financial future</li>\n<li>\n<strong>Paid parental leave</strong> – Because family matters. We offer paid leave for eligible Team Members, including partners and adoptive parents</li>\n<li>\n<strong>Personalized caregiving support</strong> – Access dedicated caregiving concierge services to help navigate caregiving for yourself and your loved ones</li>\n<li>\n<strong>Crisis concierge </strong>– In times of loss, our Crisis Concierge offers a single, compassionate point of contact for both practical support and emotional care</li>\n<li>\n<strong>Mental health resources</strong> – Your wellbeing comes first. Eligible Team Members can access free counseling and support through our best-in-class Employee Assistance Program (EAP)</li>\n<li>\n<strong>Generous paid time off (PTO)</strong> – Recharge, relax, and take time for what matters most</li>\n<li>\n<strong>Health &amp; welfare benefits</strong> – From checkups to dental cleanings to new glasses, we offer a variety of health plans that keep you and your family covered</li>\n<li>\n<strong>Financial security for your future</strong> – Our retirement plans make it easier to save for what's next</li>\n</ul><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<i>*Benefits availability may vary depending on Team Member's location as well as terms and conditions of employment and are subject to the terms and conditions of each specific program/plan.</i></p><p href=\"https://himalayas.app/companies/hilton\">Hilton Sans\"; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;\"&gt;<a href=\"https://himalayas.app/companies/hilton\">Hilton</a> offers its eligible team members a comprehensive benefits package to support their mental and physical well-being, so they can Thrive personally and professionally.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212634,
+   "expiryDate": 1799396632,
+   "applicationLink": "https://himalayas.app/companies/hilton/jobs/specialist-sales-support?utm_source=api",
+   "guid": "https://himalayas.app/companies/hilton/jobs/specialist-sales-support"
+  },
+  {
+   "title": "Board Certified Physician Reviewers - Reproductive Endocrinology/Infertility",
+   "excerpt": "Dane Street wants you to join our dynamic team of expert reviewers!",
+   "companyName": "Dane Street",
+   "companySlug": "danestreet",
+   "companyLogo": "https://cdn-images.himalayas.app/swgoi3kebgorujx3ob2tl6dhbjzy",
+   "employmentType": "Contractor",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    14
+   ],
+   "categories": [
+    "Physician-Reviewer",
+    "Medical-Reviewer",
+    "Physician-Consultant",
+    "Clinical-Case-Review"
+   ],
+   "parentCategories": [],
+   "description": "<p><a href=\"https://himalayas.app/companies/danestreet\">Dane Street</a> wants you to join our dynamic team of expert reviewers! In this role, you will have the opportunity to utilize your medical expertise to conduct thorough reviews of clinical cases.</p><p>This telework opportunity allows you to customize your schedule as a 1099 independent contractor.</p><p>Your main task will be to evaluate medical records, provide clinical summaries, engage in peer communications, and answer specific questions posed by our clients. </p><p>We are on the lookout for talented professionals in the following area:</p><ul><li>Reproductive Endocrinology/Infertility</li></ul><p>Be a part of a team that values your skills and dedication to improving patient care. Your expertise is vital to helping us deliver high-quality healthcare assessments.</p><h3>Requirements</h3><ul>\n<li>Board Certified in Reproductive Endocrinology/Infertility</li>\n<li>Current, unrestricted Medical License</li>\n<li>5+ years of clinical practice experience</li>\n<li>Attends all required orientation and training</li>\n<li>Maintains proper credentialing, state licenses, and any certifications or requirements necessary to perform the job</li>\n</ul><h3>Benefits</h3><ul>\n<li>Independent consultant role allows for schedule flexibility and predictable work hours. You choose services and case types, dictate volume, and conduct this work based on your scheduled availability.</li>\n<li>No doctor/patient relationship is established, and no treatment is provided. These are advisory-only opinions.</li>\n<li>\n<a href=\"https://himalayas.app/companies/danestreet\">Dane Street</a> offers a streamlined case flow and a user-friendly work portal. We facilitate all communication, organize and sort all medical records, support all administrative processes, prep cases extensively, and ensure the quality and timely delivery of all determinations/reports.</li>\n<li>A chronological listing of medical records as well as all treatment guidelines used to make a determination are provided in an easy, click-to-view format.</li>\n<li>\n<a href=\"https://himalayas.app/companies/danestreet\">Dane Street</a> offers initial training as well as an ongoing point of contact should you have any questions about completing reviews.</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212526,
+   "expiryDate": 1799396525,
+   "applicationLink": "https://himalayas.app/companies/danestreet/jobs/board-certified-physician-reviewers-reproductive-endocrinology-infertility?utm_source=api",
+   "guid": "https://himalayas.app/companies/danestreet/jobs/board-certified-physician-reviewers-reproductive-endocrinology-infertility"
+  },
+  {
+   "title": "Enterprise Sales Leader (Canada)",
+   "excerpt": "Company OverviewWe provide a mission-critical DevOps and Data Management platform purpose-built for the Salesforce ecosystem.",
+   "companyName": "Flosum",
+   "companySlug": "flosum",
+   "companyLogo": "https://cdn-images.himalayas.app/1qmb1w6ernszmv0ze7lhzealgwec",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Director"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    14
+   ],
+   "categories": [
+    "Director-Of-Enterprise-Sales",
+    "Enterprise-Sales-Director",
+    "Sales-Director",
+    "VP-Of-Sales"
+   ],
+   "parentCategories": [
+    "Sales"
+   ],
+   "description": "<h3>Company Overview</h3><p>We provide a mission-critical DevOps and Data Management platform purpose-built for the Salesforce ecosystem. Our suite of products—including CI/CD, automated testing, backup &amp; recovery, and data masking—empowers organizations to release code faster, more securely, and with total data integrity. We are entering a phase of hyper-growth and are looking for a foundational leader to build our Enterprise presence in the United States.</p><h3>The Role</h3><p>Director of Enterprise Sales to serve as the \"Incubator\" for our U.S. sales organization. This is a unique \"zero-to-one\" opportunity. You will not be an armchair manager; you will be a hands-on builder responsible for the entire end-to-end operation of this business unit—from pipeline generation and prospecting to closing high-value deals.</p><p>You will begin by personally leading and scaling an initial \"pod\" of 8 to 10 representatives. Once you have identified, tested, and nailed the repeatable processes, you will rapidly scale the organization to a team of 40+ remote representatives across the U.S., hiring and mentoring a layer of Sales Managers to support this growth.</p><h3>Key Responsibilities</h3><ul>\n<li>\n<strong>Business Incubation:</strong> Design, implement, and document the end-to-end sales process for the Enterprise segment.</li>\n<li>\n<strong>Full-Cycle Ownership:</strong> Drive the entire revenue engine, including outbound prospecting strategies, pipeline development, and closing.</li>\n<li>\n<strong>Hands-on Leadership:</strong> Act as a player-coach, joining discovery calls and demos to ensure the business is rock-solid at the 10-rep level before scaling.</li>\n<li>\n<strong>Rapid Scaling:</strong> Lead the aggressive expansion from 10 to 40+ remote reps, identifying and hiring internal Managers as the team grows.</li>\n<li>\n<strong>Data-Driven Operations:</strong> Establish KPIs and a rigorous, data-backed forecasting model to ensure predictable revenue growth.</li>\n<li>\n<strong>Messaging &amp; Positioning:</strong> Master the technical value proposition of our DevOps and Data security tools, coaching the team on how to move from \"feature selling\" to \"value selling.\"</li>\n<li>\n<strong>Culture Building:</strong> Create a high-performance, accountable, and transparent culture within a 100% remote workforce.</li>\n</ul><h3>Requirements</h3><h3>Qualifications</h3><ul>\n<li>\n<strong>Proven Track Record:</strong> 8+ years of B2B SaaS sales leadership experience, with a documented history of building teams from the ground up.</li>\n<li>\n<strong>Ecosystem Expertise:</strong> Deep familiarity with the Salesforce ecosystem or DevOps/Data Management industries is highly preferred.</li>\n<li>\n<strong>The \"Builder\" DNA:</strong> You must be a hands-on problem solver who prefers \"doing the work\" over high-level observation.</li>\n<li>\n<strong>Scaling Experience:</strong> Proven ability to manage a remote organization of 30+ people and a history of developing \"leaders of leaders.\"</li>\n<li>\n<strong>Operational Excellence:</strong> Expert-level understanding of CRM hygiene, sales stack optimization, and outbound prospecting methodologies.</li>\n<li>\n<strong>Residing in the USA:</strong> This role is remote but requires residency in the United States to manage the domestic market.</li>\n</ul><h3>Why join us?</h3><ul>\n<li>\n<strong>Autonomy:</strong> You own the Enterprise P&amp;L and have the authority to build the team in your image.</li>\n<li>\n<strong>Impact:</strong> Your processes will become the blueprint for our global expansion.</li>\n<li>\n<strong>Complexity:</strong> Work with a sophisticated, technical product suite that solves real-world engineering and security challenges.</li>\n</ul><h3>Benefits</h3><h3>What We Offer</h3><ul>\n<li>Opportunity to shape the digital strategy at a high-growth Salesforce ISV.</li>\n<li>Collaborative, innovative, and mission-driven culture.</li>\n<li>Competitive compensation and benefits.</li>\n<li>Career growth in a fast-scaling company serving global enterprises.</li>\n</ul><h3>Extras (Benefits &amp; Perks)</h3><ul>\n<li>Competitive compensation, incentive structure, and company equity</li>\n<li>Daily coaching, mentorship, and growth opportunity</li>\n<li>Be part of a global, mission-driven team</li>\n<li>Learn from top leaders in Salesforce DevOps and SaaS sales</li>\n<li>Work on exciting challenges in a rapidly growing industry</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212526,
+   "expiryDate": 1799396525,
+   "applicationLink": "https://himalayas.app/companies/flosum/jobs/enterprise-sales-leader-canada?utm_source=api",
+   "guid": "https://himalayas.app/companies/flosum/jobs/enterprise-sales-leader-canada"
+  },
+  {
+   "title": "Senior Logic Design Engineer",
+   "excerpt": "Ciklum is looking for a Senior Logic Design Engineer to join our team full-time in Poland.",
+   "companyName": "Description Ciklum",
+   "companySlug": "description-ciklum",
+   "companyLogo": "https://cdn-images.himalayas.app/70irrmjplpl5olw8tadpeszxp2zn",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Poland"
+   ],
+   "timezoneRestrictions": [
+    1
+   ],
+   "categories": [
+    "Senior-Logic-Design-Engineer",
+    "Digital-Design-Engineer",
+    "FPGA-Design-Engineer",
+    "ASIC-Design-Engineer",
+    "RTL-Engineer"
+   ],
+   "parentCategories": [],
+   "description": "<p><strong>Ciklum</strong> is looking for a <strong>Senior Logic Design Engineer</strong> to join our team full-time in Poland.</p><p>We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology that redefines industries and shapes the way people live.</p><h3>About the role:</h3><p>We are looking for an experienced Senior Logic Design Engineer to contribute to the development of next-generation FPGA and ASIC-based control platforms.</p><p>In this role, you will design and optimize high-performance digital logic with stringent latency and timing requirements. You will work closely with system architects, verification engineers, software developers, and hardware specialists in an international engineering environment.</p><p>Our client is an innovative technology company developing advanced control and measurement systems for quantum computing. Its hardware and software platforms enable precise, real-time control of complex quantum systems, supporting the evolution of quantum computing from individual qubits to large-scale architectures.</p><h3>Responsibilities:</h3><ul>\n<li>Design and implement complex, configurable, low-latency RTL modules using SystemVerilog</li>\n<li>Develop digital logic for high-performance FPGA and ASIC applications, including signal processing, waveform generation, and real-time control</li>\n<li>Participate in the complete RTL development lifecycle, from architecture and microarchitecture definition to implementation and verification</li>\n<li>Optimize RTL designs for timing, latency, resource utilization, and power efficiency</li>\n<li>Perform logic synthesis, timing analysis, and optimization to meet design constraints</li>\n<li>Collaborate with verification engineers to ensure functional correctness and comprehensive test coverage</li>\n<li>Analyze system-level and software requirements and implement appropriate hardware-software interfaces</li>\n<li>Integrate proprietary digital IP into complex FPGA/ASIC architectures</li>\n<li>Participate in design reviews, debugging, and continuous improvement of engineering processes</li>\n</ul><h3>Requirements:</h3><ul>\n<li>Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related technical discipline, or equivalent practical experience</li>\n<li>4+ years of professional experience in FPGA or ASIC digital logic design</li>\n<li>Strong practical experience in RTL development using SystemVerilog (mandatory)</li>\n<li>Solid understanding of digital logic design, computer architecture, and RTL microarchitecture</li>\n<li>Experience with logic synthesis, static timing analysis (STA), and timing optimization</li>\n<li>Practical experience with FPGA or ASIC design and implementation workflows</li>\n<li>Understanding of clock-domain crossing (CDC), synchronous digital design, and hardware interfaces</li>\n<li>Experience with simulation-based RTL verification and debugging</li>\n<li>Strong analytical, problem-solving, and communication skills</li>\n<li>English proficiency sufficient for effective collaboration within an international engineering team</li>\n</ul><h3>Desirable:</h3><ul>\n<li>Experience with AMD/Xilinx FPGA platforms, particularly AMD Versal</li>\n<li>Experience with AMD Vivado and related FPGA implementation tools</li>\n<li>Familiarity with Synopsys VCS, Siemens Questa, or equivalent simulation tools</li>\n<li>Experience with digital signal processing (DSP), waveform generation, or high-speed data acquisition</li>\n<li>Experience developing deterministic, ultra-low-latency digital systems</li>\n<li>Familiarity with AXI, PCIe, DDR, or other high-performance hardware interfaces</li>\n<li>Experience with ASIC-oriented RTL development and reusable digital IP</li>\n<li>Knowledge of Python, Tcl, or other languages used for development automation</li>\n<li>Experience with hardware-software co-design and embedded systems</li>\n<li>Experience in quantum computing, telecommunications, measurement equipment, or other performance-critical digital systems</li>\n</ul><h3>What’s in it for you?</h3><ul>\n<li>Strong community: Work alongside top professionals in a friendly, open-door environment</li>\n<li>Growth focus: Take on large-scale projects with a global impact and expand your expertise</li>\n<li>Tailored learning: Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications</li>\n<li>Endless opportunities: Explore diverse domains through internal mobility, finding the best fit to gain hands-on experience with cutting-edge technologies</li>\n<li>Flexibility: Enjoy flexibility – full remote working possibilities</li>\n<li>Care: We've got you covered with company-paid premium medical package through Luxmed</li>\n<li>Benefits: Access the MyBenefit cafeteria platform, allowing you to choose perks that best suit your lifestyle and needs</li>\n</ul><h3>About us:</h3><p>At Ciklum, we are always exploring innovations, empowering each other to achieve more, and engineering solutions that matter. With us, you’ll work with cutting-edge technologies, contribute to impactful projects, and be part of a One Team culture that values collaboration and progress.</p><p>With delivery centers in Wrocław and Gdańsk, our 300+ professionals in Poland drive forward-thinking solutions for global clients. Join a community where collaboration sparks innovation—and your impact reaches millions.</p><h3>Explore, empower, engineer with Ciklum!</h3><p>Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212433,
+   "expiryDate": 1799396432,
+   "applicationLink": "https://himalayas.app/companies/description-ciklum/jobs/senior-logic-design-engineer-8002719742?utm_source=api",
+   "guid": "https://himalayas.app/companies/description-ciklum/jobs/senior-logic-design-engineer-8002719742"
+  },
+  {
+   "title": "Account Manager",
+   "excerpt": "*Please note we are currently looking for someone to work in American time zones 12pm - 8pm South African time.",
+   "companyName": "FLANCE Directive Creators",
+   "companySlug": "flance-directive-creators",
+   "companyLogo": "",
+   "employmentType": "Full Time",
+   "minSalary": 30000,
+   "maxSalary": 40000,
+   "salaryPeriod": "monthly",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "ZAR",
+   "locationRestrictions": [
+    "Canada",
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    14
+   ],
+   "categories": [
+    "Account-Manager",
+    "Client-Account-Manager",
+    "Digital-Marketing-Account-Manager",
+    "Advertising-Account-Manager"
+   ],
+   "parentCategories": [
+    "Sales"
+   ],
+   "description": "<p>*Please note we are currently looking for someone to work in American time zones 12pm - 8pm South African time. <br><br>As an Account Manager at FDC, your role is characterized by its dynamic nature. Your primary responsibilities involve the cultivation and maintenance of relationships with up to 35 high-value international clients, as well as the leadership and supervision of a team comprising up to 10 individuals.</p><p> Your team consists of Content Creators, who are tasked with the creation of content for our clients, and Account Executives, who engage in outreach activities on behalf of our clients.</p><p>In your capacity as an Account Manager, you bear the critical responsibility of devising effective strategies for overcoming client-related challenges and subsequently delegating these tasks to your team. Furthermore, you serve as the primary liaison between your team and the client.</p><p>While this role is undeniably demanding, we provide extensive support throughout your journey. This support is twofold, encompassing professional coaching from external life and business coaches, as well as dedicated training from our in-house team, specifically tailored to assist our Account Managers.</p><p>When executed adeptly, this role yields substantial rewards and offers rapid skill development. It also affords you the opportunity to gain profound insights into the operational strategies employed by our clients in their businesses.</p><h3>Job Requirements:</h3><ul>\n<li>Experience managing a team.</li>\n<li>Experience in digital marketing or advertising </li>\n<li>Experience managing multiple client relationships.</li>\n<li>Can demonstrate a solid understanding of LinkedIn features and capabilities.</li>\n<li>5+ years of work experience.</li>\n</ul><h3>Job Responsibilities:</h3><ul>\n<li>Act as a point of contact for up to 30 clients </li>\n<li>Act as a manager for up to 8 team members working on your client's accounts</li>\n<li>Ensure a positive and professional client service experience.</li>\n<li>Maintain quality assurance for our KPIs. </li>\n<li>Build and maintain long-lasting client relationships.</li>\n<li>Build and maintain a strong pod culture of performance</li>\n<li>Manage the client onboarding process for new clients joining a pod </li>\n<li>Develop and maintain strategic objectives for each client by completing and maintaining.</li>\n<li>Maintain and report on internal strategies implemented by senior management.</li>\n<li>Prepare reports on account statuses and send them to the client: Look over reports done at the end of the month and suggest improvements, aesthetical changes and spot-check for accuracy.</li>\n<li>Help identify and develop new business avenues with existing clients.</li>\n<li>Identify operational gaps and provide solutions to streamline operational efficiency and effectiveness within their pods and client-facing communication.</li>\n<li>Drive integration of cross-functional teams for effective client management.</li>\n<li>Ensure on-time delivery of work by adhering to weekly and monthly deadlines. </li>\n<li>Manage, analyse, and forecast the financial performance of the pod </li>\n<li>Develop, manage, and plan for optimal service capacity within the pod.</li>\n<li>Work across departments to ensure the pod is effectively run like a mini business unit in service delivery.</li>\n<li>Drive innovation and manage change of new initiatives within the pod environment and report on the efficiency of new systems and processes implemented.</li>\n<li>Have in-depth knowledge of content strategy and be able to propose and steer change for clients in terms of content if it is not performing.</li>\n<li>Have in-depth knowledge of Sales Navigator and be able to create saved searches and help social sellers with targeting for clients.</li>\n<li>Have in depth knowledge of the standard sales and outreach process for clients and be able to advise and help social sellers with script creation and alteration to produce better lead results for clients.</li>\n<li>Work with the Audit specialist to analyse and correct any red or yellow flags on accounts once an Audit has been completed.</li>\n<li>Check clients' weekly status document and weekly status report to see if your team are filling it in correctly. Also be able to analyse the figures of the weekly status figures to see any shortfalls and make corrections.</li>\n</ul>Salary: R30 000 - R40 000 based on experience<p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212411,
+   "expiryDate": 1799396410,
+   "applicationLink": "https://himalayas.app/companies/flance-directive-creators/jobs/account-manager?utm_source=api",
+   "guid": "https://himalayas.app/companies/flance-directive-creators/jobs/account-manager"
+  },
+  {
+   "title": "Software Engineer",
+   "excerpt": "We are seeking a highly skilled and motivated Software Engineer to join our dynamic team.",
+   "companyName": "Reevolt",
+   "companySlug": "reevolt-co",
+   "companyLogo": "",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    14
+   ],
+   "categories": [
+    "Software-Engineer",
+    "Backend-Engineer",
+    "Python-Developer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p>We are seeking a highly skilled and motivated Software Engineer to join our dynamic team. This is a full-time remote position, allowing you to work from anywhere. As a Software Engineer, you will play a crucial role in designing, developing, and maintaining our innovative software solutions. If you have at least 3 years of development experience, proficiency in Python, and a strong focus on Flask and backend development, we encourage you to apply.</p><h3>Responsibilities</h3><ul>\n<li>Collaborate with cross-functional teams to gather and define software requirements</li>\n<li>Design, develop, test, and maintain high-quality software solutions</li>\n<li>Write clean, efficient, and maintainable code in Python, with a focus on Flask and backend development</li>\n<li>Debug and resolve software defects and issues promptly</li>\n<li>Participate in code reviews and contribute to continuous improvement efforts</li>\n<li>Stay updated with industry trends and technologies to continuously enhance software development practices</li>\n</ul><ul>\n<li>Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience)</li>\n<li>Minimum of 3 years of professional software development experience</li>\n<li>Strong expertise in Python programming language</li>\n<li>Proven experience with Flask and backend development</li>\n<li>Solid understanding of software development principles, design patterns, and best practices</li>\n<li>Proficiency in relational databases, such as MySQL or PostgreSQL</li>\n<li>Familiarity with version control systems, such as Git</li>\n<li>Excellent problem-solving skills and attention to detail</li>\n<li>Effective communication and collaboration abilities</li>\n</ul><p>At our company, we value diversity and inclusion. We are committed to creating a supportive and inclusive work environment where everyone feels empowered to contribute their best. This remote position offers flexibility and the opportunity to work in a collaborative and dedicated team. As a Software Engineer, you will have the chance to contribute to cutting-edge projects, enhance your skills, and make a lasting impact. We provide competitive compensation packages and comprehensive benefits, ensuring our employees' well-being and professional growth. Join our team and help us shape the future of software engineering!</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212393,
+   "expiryDate": 1799396393,
+   "applicationLink": "https://himalayas.app/companies/reevolt-co/jobs/software-engineer?utm_source=api",
+   "guid": "https://himalayas.app/companies/reevolt-co/jobs/software-engineer"
+  },
+  {
+   "title": "Professional Fee Coding Abstractor",
+   "excerpt": "Nemours Children's Health is hiring a remote Professional Fee Abstractor.",
+   "companyName": "Nemours",
+   "companySlug": "nemours",
+   "companyLogo": "https://cdn-images.himalayas.app/2o90vupq9r3z48q1e65ux0nvyw4w",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    14
+   ],
+   "categories": [
+    "Professional-Fee-Abstractor",
+    "Medical-Coder",
+    "Health-Information-Management-Specialist",
+    "Clinical-Documentation-Specialist",
+    "Medical-Billing-Specialist"
+   ],
+   "parentCategories": [
+    "Healthcare"
+   ],
+   "description": "<p><a href=\"https://himalayas.app/companies/nemours\">Nemours</a> Children's Health is hiring a remote <strong>Professional Fee Abstractor</strong>. The <strong>Professional Fee Abstractor</strong> is responsible for 100% charge capture by reviewing physician documentation and properly coding all professional services performed utilizing appropriate ICD-10-CM, CPT-4, HCPCS codes and modifiers.  Daily review of EPIC Charge Review Work queues is essential. Participation in physician training and education is also required.  Maintaining yearly certification as a CPC, CCS-P, RHIA, or RHIT is required.</p><p><i><strong>This is a remote position.</strong></i><i><strong>Applicants must reside in one of the following states: </strong></i>Alabama, Colorado, Delaware, the District of Columbia, Florida, Georgia, Illinois, Maryland, Missouri, New Jersey, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, and Virginia.</p><h3>Essential Functions:</h3><p>1.Ensure that charges for all applicable patient encounters of the <a href=\"https://himalayas.app/companies/nemours\">Nemours</a> Children’s Clinical Practice are abstracted in a timely manner. Utilization of hospital systems will be used to indicate respective patients.</p><p>2.Abstracted charges will be reported via EPIC EHR, external interfaces or other approved methods</p><p>3.Communicate in a timely manner with physicians, managers, and peers orally or in writing, regarding medical record documentation guidelines and regulations, and respond to all inquiries that concern the proper documentation of diagnostic and procedural services.</p><p>4.Maintain thorough knowledge of coding, and documentation principles.  Also maintain knowledge of assigned medical specialties.</p><p>5.Attend in-services and seminars pertinent to assigned medical specialties and documentation requirements</p><p>6.Review and maintain current knowledge of changes in coding guidelines and regulations.</p><h3>Qualifications:</h3><ul>\n<li>CPC, CCS-P, RHIA, or RHIT <strong>REQUIRED</strong>\n</li>\n<li>Medical Terminology and Anatomy and Physiology preferred</li>\n<li>Cardiology, Cardiothoracic Surgery, or ICU experience preferred </li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212380,
+   "expiryDate": 1799396379,
+   "applicationLink": "https://himalayas.app/companies/nemours/jobs/professional-fee-coding-abstractor?utm_source=api",
+   "guid": "https://himalayas.app/companies/nemours/jobs/professional-fee-coding-abstractor"
+  },
+  {
+   "title": "Senior IFRS Accountant / Financial Controller",
+   "excerpt": "Company Description:RISK inc: An International iGaming Company Pushing the Boundaries of Entertainment Who We Are:An international iGaming company specializing in identifying and fostering the growth of high-potential entertainment markets.",
+   "companyName": "Risk.Inc",
+   "companySlug": "risk-inc",
+   "companyLogo": "https://cdn-images.himalayas.app/k56n9wt3qnvh6eiaq7v7yqvqkf3i",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Cyprus"
+   ],
+   "timezoneRestrictions": [
+    2
+   ],
+   "categories": [
+    "IFRS-Accountant",
+    "Financial-Controller",
+    "Financial-Reporting-Manager",
+    "Accounting-Manager",
+    "Tax-and-Reporting-Manager"
+   ],
+   "parentCategories": [
+    "Finance"
+   ],
+   "description": "<h3>Company Description:</h3><p>RISK inc: An International <em>iGaming</em> Company Pushing the Boundaries of Entertainment</p><h3>Who We Are:</h3><p>An international iGaming company specializing in identifying and fostering the growth of high-potential entertainment markets. With 1000+ professionals in 20+ locations, we operate in 10 countries, serving over 300,000 customers.</p><p><strong>Always Pushing the Boundaries? You Already Belong at RISK!</strong></p><p>Our global-scale operations are based on strong internal expertise, analytics, and data research. We have expertise in iGaming operations (sports betting, online casino), digital and affiliate marketing, tech solutions, and data analytics.</p><h3>Responsibilities</h3><ul>\n<li><p>Take end-to-end ownership of IFRS accounting and financial reporting for assigned international legal entities.</p></li>\n<li><p>Manage month-end and year-end closing, ledger accuracy, and intercompany reconciliations.</p></li>\n<li><p>Independently coordinate statutory audits, tax reviews, and support consolidated group audits.</p></li>\n<li><p>Participate in tax planning, corporate restructuring, and liquidation processes.</p></li>\n<li><p>Review contracts from an accounting and tax perspective, identifying financial risks and implications.</p></li>\n<li><p>Collaborate with external auditors, tax advisors, banks, and internal stakeholders.</p></li>\n<li><p>Ensure accurate and timely collection of financial documentation.</p></li>\n<li><p>Identify opportunities to optimize, automate, and improve accounting and reporting processes.</p></li>\n</ul><h3>Requirements</h3><ul>\n<li><p>3+ years of experience in IFRS accounting, financial reporting, financial control, or external audit.</p></li>\n<li><p>Strong practical understanding of IFRS and financial reporting principles.</p></li>\n<li><p>Experience working with international companies or multiple legal entities.</p></li>\n<li><p>Understanding of corporate taxation, VAT, and withholding tax principles.</p></li>\n<li><p>Experience with financial closing, reconciliations, and audit processes.</p></li>\n<li><p>English at B2 level or higher, with confident written and verbal communication.</p></li>\n<li><p>Strong analytical thinking and ability to handle complex or non-standard financial tasks.</p></li>\n<li><p>Proactive, independent, and solution-oriented approach with a strong sense of ownership.</p></li>\n<li><p>Excellent communication and organizational skills.</p></li>\n</ul><h3>Nice to Have</h3><ul>\n<li><p>Background in Big 4 or other international audit firms.</p></li>\n<li><p>Combination of external audit and in-house finance experience.</p></li>\n<li><p>Experience with European jurisdictions, particularly Cyprus.</p></li>\n<li><p>ACCA, DipIFR, CPA, or relevant certification in progress.</p></li>\n<li><p>Experience with corporate restructuring or liquidation procedures.</p></li>\n<li><p>Knowledge of Excel, Google Sheets, and 1C accounting systems.</p></li>\n<li><p>Experience with banking compliance and KYC procedures.</p></li>\n</ul><h3>What Makes This Role Interesting</h3><ul>\n<li><p>Full ownership of assigned legal entities rather than a narrow set of accounting tasks.</p></li>\n<li><p>Exposure to multiple international jurisdictions and complex financial cases.</p></li>\n<li><p>Opportunity to transition from external audit into an international in-house finance environment.</p></li>\n<li><p>Freedom to propose improvements, optimize processes, and take initiative.</p></li>\n<li><p>Collaboration with an experienced international Tax &amp; Reporting team.</p></li>\n</ul><h4>Additional Information</h4><h3>Our Benefit Cafeteria is Packed with Goodies:</h3><ul>\n<li><h3>Children Allowance</h3></li>\n<li><h3>Mental Health Support</h3></li>\n<li><h3>Sport Activities</h3></li>\n<li><h3>Language Courses</h3></li>\n<li><h3>Automotive Services</h3></li>\n<li><h3>Veterinary Services</h3></li>\n<li><h3>Home Office Setup Assistance</h3></li>\n<li><h3>Dental Services</h3></li>\n<li><h3>Books and Stationery</h3></li>\n<li><h3>Training Compensation</h3></li>\n<li><h3>And yes, even Massage!</h3></li>\n</ul><h3>Ready to Take the Leap?</h3><p>Join a team where every day is an opportunity to take a RISK and come out on top. Follow us on LinkedIn and Instagram, and let us be your hub for turning ambitious ideas and extraordinary solutions into reality.</p><p><strong>At RISK, we believe that our people are the driving force behind our success. Together, we can achieve great things and push the boundaries of what's possible in the iGaming industry.</strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1794212313,
+   "expiryDate": 1799396312,
+   "applicationLink": "https://himalayas.app/companies/risk-inc/jobs/senior-ifrs-accountant-financial-controller?utm_source=api",
+   "guid": "https://himalayas.app/companies/risk-inc/jobs/senior-ifrs-accountant-financial-controller"
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "hits": [
+  {
+   "_tags": [
+    "comment",
+    "author_cupray",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "--- POSITION HAS BEEN FILLED ---",
+   "created_at": "2025-10-29T10:15:39Z",
+   "created_at_i": 1761732939,
+   "objectID": "45744834",
+   "parent_id": 45621624,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:57:37Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_cupray",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45744834
+   ],
+   "comment_text": "adding to this: Remote work, but anywhere in Eastern &#x2F; Central Europe, UK, or South Africa due to timezone.\nCTO &amp; engineering is based in Central European Timezone.",
+   "created_at": "2025-10-17T20:25:32Z",
+   "created_at_i": 1760732732,
+   "objectID": "45621624",
+   "parent_id": 45603677,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:32Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_vpianykh",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "hey andyayers, how the one can apply?",
+   "created_at": "2025-10-16T22:04:15Z",
+   "created_at_i": 1760652255,
+   "objectID": "45611244",
+   "parent_id": 45522692,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:49Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_cupray",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45621624
+   ],
+   "comment_text": "Thank you, Igor, for making me aware of a setup issue! I&#x27;ll reach out via mail directly.\nAnd the issue is fixed now: hr@goodchat.com is available to all interested applicants!",
+   "created_at": "2025-10-16T10:25:54Z",
+   "created_at_i": 1760610354,
+   "objectID": "45603677",
+   "parent_id": 45582137,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:09Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_bitbasher",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Personally, I&#x27;m creeped out job applications now ask what your sexual orientation is and how you identify.",
+   "created_at": "2025-10-15T19:25:24Z",
+   "created_at_i": 1760556324,
+   "objectID": "45597216",
+   "parent_id": 45586261,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:53:35Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_grmatelich",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Rely | Senior Full Stack Engineer | Full-Time | Remote (US)<p>Rely, a due diligence automation platform is hiring a full stack engineer (preference for front end chops). We are backed by some of the largest real estate firms in the country and want to speed up! JD here: <a href=\"https:&#x2F;&#x2F;www.notion.so&#x2F;Rely-Full-Stack-Engineer-28a7fcbac41a80cca44fdd0ced84c1f8?source=copy_link\" rel=\"nofollow\">https:&#x2F;&#x2F;www.notion.so&#x2F;Rely-Full-Stack-Engineer-28a7fcbac41a8...</a>",
+   "created_at": "2025-10-15T15:29:39Z",
+   "created_at_i": 1760542179,
+   "objectID": "45594100",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:53:20Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_dddtech",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Senior Drupal Consultant | Remote (US only) | Contract | 100-200hrs over 10 weeks\nWe need senior Drupal expertise for a new microsite launch in an enterprise multisite environment. Mix of consulting&#x2F;guidance and hands-on component development.<p>Looking For:\n- 5+ years Drupal development with multisite expertise\n- Custom module development and API integrations\n- Can guide front-end developers and write code where needed\n- Available ~10-20hrs&#x2F;week through end of year<p>Email resume + brief note on relevant experience to: james.calhoun at the domain omc.com\nSubject line: &quot;HN Drupal Consultant&quot;",
+   "created_at": "2025-10-15T14:59:30Z",
+   "created_at_i": 1760540370,
+   "objectID": "45593658",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:53:16Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_denalilumma",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45597216
+   ],
+   "comment_text": "I’m looking for someone with deep expertise in both machine learning systems and quality and test automation. The right person will have hands-on experience validating model correctness, reproducibility, and performance, ideally using PyTorch or similar frameworks.<p>This isn’t a typical SDET role. We’re specifically looking for someone who understands ML infrastructure and model-level quality. Candidates with experience limited to traditional frameworks like Playwright or Selenium won’t be a fit.<p><a href=\"https:&#x2F;&#x2F;www.modular.com&#x2F;company&#x2F;career-post?4600504005&amp;gh_jid=4600504005\" rel=\"nofollow\">https:&#x2F;&#x2F;www.modular.com&#x2F;company&#x2F;career-post?4600504005&amp;gh_ji...</a><p>If this sounds like you, please also reach out directly at platform-eng-roles@modular.com",
+   "created_at": "2025-10-14T23:34:38Z",
+   "created_at_i": 1760484878,
+   "objectID": "45586261",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:46Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_tarive26",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Modeling human societies and interaction dynamics is extraordinarily challenging yet potentially transformative—solving it could unlock breakthrough applications in simulation, prediction, and coordination. I believe multi-agent LLM systems with hive-mind architectures are uniquely suited for this because they excel at the very thing that makes human behavior hard to model: probabilistic, unpredictable dynamics.<p>As an open source contributor to claude-flow and claude-swarm, I&#x27;ve worked on systems where specialized agents (Queen orchestrator, Workers, Scouts, Guardians, Architects) collaborate through:\n- Task orchestration with decomposition, distribution, and progress aggregation\n- Consensus protocols with voting and tie-breaking for strategic decisions\n- Shared memory enabling collective learning and pattern recognition\n- Real-time coordination with auto-scaling, load balancing, and fault tolerance\n- Self-healing mechanisms that rebalance and recover from failures<p>This hive-mind approach demonstrates how agent collectives can achieve what isolated agents cannot: parallel problem-solving, emergent intelligence, and robust execution at scale. The probabilistic nature of LLMs—often seen as a limitation—becomes an asset when simulating the inherent unpredictability of human social systems.<p>I&#x27;m eager to contribute to teams working on agent societies, emergence, and collective intelligence. GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Tar-ive\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Tar-ive</a>",
+   "created_at": "2025-10-14T22:15:21Z",
+   "created_at_i": 1760480121,
+   "objectID": "45585707",
+   "parent_id": 45438511,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:42Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_Hire1",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Also Hiring<p>- Senior Full-Stack Developer (Angular + Node.js) - Full time\n- Senior Data Engineer (ETL, ML Experience) - Full time<p>I&#x27;m part of the hiring team. Send your CV to bayonle.afolabi@hire1.email",
+   "created_at": "2025-10-14T21:22:17Z",
+   "created_at_i": 1760476937,
+   "objectID": "45585112",
+   "parent_id": 45447600,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:42Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_nelscity",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "CommunityScale | <a href=\"https:&#x2F;&#x2F;communityscale.com\" rel=\"nofollow\">https:&#x2F;&#x2F;communityscale.com</a> | Lead Python Developer (Housing Forecast) | REMOTE (US, EST-friendly) | Optional Boston&#x2F;Cambridge meetups | Full-time | Visa: Not available | Compensation: $85k–$125k base + 401(k) match, health stipend, PTO<p>We’re an urban planning consultancy building the CommunityScale Housing Forecast, tools and maps that help cities plan housing and growth. Small, focused team; real-world impact.<p>You’ll work on: \n- APIs &amp; performance: Extend FastAPI endpoints (forecast overrides, analytics), tune queries&#x2F;caching, containerize heavy jobs on Cloud Run.\n- Data engineering: Ingest ACS&#x2F;FRED&#x2F;Zillow; refactor transforms to SQL&#x2F;dbt; manage schema migrations; keep tilesets fresh.\n- Geospatial UX: Improve PostGIS&#x2F;GeoAlchemy2 pipelines and map rendering (e.g., overlapping township&#x2F;municipality z-index issues).<p>Stack: Python 3.13+, FastAPI, SQLAlchemy 2, Pydantic, Pandas; Postgres 16 + PostGIS, DuckDB; dbt; HTMX, Tailwind, Jinja2, Mapbox GL JS; Docker, GCP (Cloud Run), GitHub Actions, uv, pytest, Ruff, Pyright. Nice-to-have: Prefect, BigQuery, dlt; familiarity with US Census data.<p>Requirements: 2+ yrs building Python web apps; strong SQL &amp; schema design; ETL&#x2F;ELT experience; collaborative Git workflow; geospatial familiarity (nice-to-have).<p>Benefits: Competitive base + 401(k) match, paid vacation, health insurance stipend. Remote-first with limited travel.<p>Apply: email nels@communityscale.com with subject “Job application: Lead Python Developer, &lt;Your Name&gt;”. We’re actively hiring and will respond to applicants.",
+   "created_at": "2025-10-14T19:00:14Z",
+   "created_at_i": 1760468414,
+   "objectID": "45583517",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:35Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_prateekpuri12",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Hello, are u hiring in Canada. I like this product to scrape data from web pages",
+   "created_at": "2025-10-14T17:03:22Z",
+   "created_at_i": 1760461402,
+   "objectID": "45582381",
+   "parent_id": 45446588,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:30Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_bug_zapper",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Apologies for posting this anonymously, I know it looks sketchy.<p>We are doing this intentionally to filter out people that apply just based on company name. We&#x27;d prefer people that apply based on job interest and relevant experience.",
+   "created_at": "2025-10-14T16:59:04Z",
+   "created_at_i": 1760461144,
+   "objectID": "45582324",
+   "parent_id": 45562529,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:30Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_igor9silva",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45603677
+   ],
+   "comment_text": "Hi, tried reaching through hr@goodchat.com but it failed (&quot;may not exist&quot;). I strongly identify with this culture and stack, would love to chat. hire@igorsilva.pro or @igor9silva on twitter.",
+   "created_at": "2025-10-14T16:44:17Z",
+   "created_at_i": 1760460257,
+   "objectID": "45582137",
+   "parent_id": 45567065,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:30Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_AlexWunder",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "WunderGraph-REMOTE- EMEA-Open Source- Developer Tool- Looking for Staff Typescript&#x2F; Staff Full Stack AI Engineers. Comp 90k-130k EUR depending on seniority and location.<p>WE are looking for our new colleagues at WunderGraph. We are a developer&#x27;s tool, open source company, remote, global, series A start up, backed by Ebay to continue innovation in the API Management Space.<p>Currently 35 people, we are working on fresh new projects, we have open roles across:<p>SENIOR WEB&#x2F;UX Design Engineer-\n<a href=\"https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;2b5e8d34-d64d-487a-9bd0-ed3f3d511af8\" rel=\"nofollow\">https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;2b5e8d34-d64d-487a-9bd0-ed3f3d5...</a><p>Staff Full Stack AI Engineer - \n<a href=\"https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;fadbaed1-cca0-4e17-8126-b7ab3c00d465\" rel=\"nofollow\">https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;fadbaed1-cca0-4e17-8126-b7ab3c0...</a><p>Staff Typescript ( Library &amp; Algorithm)- <a href=\"https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;97443b40-84cd-4d9e-8598-0d5d19c1f9fc\" rel=\"nofollow\">https:&#x2F;&#x2F;wundergraph.com&#x2F;jobs&#x2F;97443b40-84cd-4d9e-8598-0d5d19c...</a><p>+Senior Front End Eng.<p>We have roles open in US as well such as a Developer Relations Engineer and Media Producer.<p>Culturally, these opportunities would fit someone that prefers to work in a no BS culture, highly collaborative, with big scope for impact, and supportive leadership.<p>Please apply if you believe we can grow together.",
+   "created_at": "2025-10-14T11:57:17Z",
+   "created_at_i": 1760443037,
+   "objectID": "45578956",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:52:14Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_nuelojay",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "are you looking to build a companion mobile app anytime soon?",
+   "created_at": "2025-10-13T19:28:47Z",
+   "created_at_i": 1760383727,
+   "objectID": "45572364",
+   "parent_id": 45571216,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:52Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_lseskis",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45572364
+   ],
+   "comment_text": "We&#x27;re building the first global verticalized business bank. Imagine mercury &#x2F; ramp but worldwide ;)<p>Already live in UK + EU markets and expanding fast. Looking for a senior frontend engineer to lead our web team. 160-200 USD $ + equity + relocation to London + visa sponsor.<p><a href=\"https:&#x2F;&#x2F;incard.cookd.dev&#x2F;jobs&#x2F;frontend\" rel=\"nofollow\">https:&#x2F;&#x2F;incard.cookd.dev&#x2F;jobs&#x2F;frontend</a>",
+   "created_at": "2025-10-13T17:43:43Z",
+   "created_at_i": 1760377423,
+   "objectID": "45571216",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:48Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_anne_deepa",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "are u looking for mid level engineers? I am interested to apply",
+   "created_at": "2025-10-13T17:09:40Z",
+   "created_at_i": 1760375380,
+   "objectID": "45570794",
+   "parent_id": 45503066,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:42Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_matador-ai",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Matador.ai | Senior Data Engineer | Canada&#x2F;US (Remote) | Full-time<p>We&#x27;re rebuilding our real-time analytics pipeline from the ground up and looking for a senior data engineer to architect and own the implementation.\nTechnical challenge: Computing metrics from complex event sequences across long-lived entities (spanning days&#x2F;weeks). Currently running MongoDB → Kafka → ClickHouse but hitting some limitations with the current setup.<p>You&#x27;d be designing a stateful stream processing architecture to handle:<p>- Event succession patterns and sequence analysis<p>- Out-of-order and late-arriving data<p>- Retroactive updates and backfilling<p>- Metric versioning and controlled rollout<p>- Reliability and accuracy guarantees<p>Looking for someone who&#x27;s built production stream processing pipelines and dealt with similar challenges at scale. You&#x27;ll be working closely with our CTO and Director of Engineering with full ownership of technical decisions and setting up the foundation as we build out our data team.<p>To apply, email me: ayoub@matador.ai",
+   "created_at": "2025-10-13T11:04:40Z",
+   "created_at_i": 1760353480,
+   "objectID": "45567032",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:28Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_astrastorm",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45582324
+   ],
+   "comment_text": "Do you have a company work email address?",
+   "created_at": "2025-10-12T22:18:30Z",
+   "created_at_i": 1760307510,
+   "objectID": "45562529",
+   "parent_id": 45438508,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:07Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_Ram-ai-physio",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Full Stack Product Developer (Founding Team Track – Healthcare AI &amp; EdTech) – Remote | Full-Time | 3–7 yrs<p>We’re Meduniverse, a bootstrapped health-tech startup building AI.physio and Meduniverse.app, moving from MVP to a global launch. We’re looking for a full stack developer (React, Node&#x2F;Python, React Native) to own product development end-to-end, lead features, and grow into a co-founder role with 10–20% equity.<p>What You’ll Do: Build web &amp; mobile products, design user-centric flows, manage delivery timelines, collaborate on architecture &amp; product strategy, and lead by example in a small, high-energy team.<p>Requirements: Full stack proficiency (frontend, backend, mobile), cloud (AWS), APIs, intuitive UX, proactive ownership mindset, leadership potential, and interest in healthcare&#x2F;AI&#x2F;ed-tech.<p>Compensation: ₹8–12 LPA base + 10–20% co-founder equity, with salary reviews tied to product milestones.<p>Apply: <a href=\"https:&#x2F;&#x2F;ai.physio&#x2F;full-stack-engineer\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.physio&#x2F;full-stack-engineer</a>",
+   "created_at": "2025-10-12T20:34:27Z",
+   "created_at_i": 1760301267,
+   "objectID": "45561654",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:51:03Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_designgirl001",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Your design position has been open a while. Are you having trouble finding designers?",
+   "created_at": "2025-10-12T18:13:18Z",
+   "created_at_i": 1760292798,
+   "objectID": "45560400",
+   "parent_id": 45520010,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:50:59Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_designgirl001",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Hi- you had posted of this position last month as well and I had reached out. I did not get a response. I had reached out regarding the design position.",
+   "created_at": "2025-10-12T18:10:35Z",
+   "created_at_i": 1760292635,
+   "objectID": "45560379",
+   "parent_id": 45486202,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:50:59Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_samuelklam",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "PermitFlow (YC W22) | Staff, Fullstack &amp; Frontend Software Engineers | New York, NY | ONSITE | Full-time | <a href=\"https:&#x2F;&#x2F;permitflow.com\">https:&#x2F;&#x2F;permitflow.com</a><p>PermitFlow’s mission is to streamline and simplify construction permitting in the $1.6 trillion United States construction market. Our software reduces time to permit, supporting permitting end-to-end including permit research, application preparation, submission, and monitoring.<p>We’ve raised a $31m Series A led by Kleiner Perkins with participation from Initialized Capital, Y Combinator, Felicis Ventures, Altos Ventures, and the founders and executives from Zillow, PlanGrid, Thumbtack, Bluebeam, Uber, Procore, and more.<p>Permitting is a challenging yet interesting problem; thousands of municipalities across the United States have their own processes and requirements - many which are continually updating. Software, AI, and LLMs provide an exciting opportunity for us to reason at scale and distill a nuanced and localized permitting process into a standard and streamlined experience for our customers.<p>We&#x27;re looking for customer-obsessed, ambitious, and hard-working teammates who are excited about solving a real-world problem with technology at its helm.<p>NYC Onsite Roles | apply at: <a href=\"https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;permitflow?departmentId=d33195eb-89...</a><p>1. Staff Software Engineer - $200K-275K + equity<p>2. Fullstack Software Engineer - $125-240K + equity<p>3. Senior Frontend Engineer - $125K-240K + equity<p><a href=\"https:&#x2F;&#x2F;permitflow.com&#x2F;hiring\">https:&#x2F;&#x2F;permitflow.com&#x2F;hiring</a>",
+   "created_at": "2025-10-11T11:26:00Z",
+   "created_at_i": 1760181960,
+   "objectID": "45548260",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:50:10Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_victorantos",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Is this the same job position as last month? <a href=\"https:&#x2F;&#x2F;angjobs.com&#x2F;jobs&#x2F;October-2025&#x2F;bjg-10xGenomics-SoftwareEngineer(MultipleRoles)-Remote(US)orPleasanton_CA-Full-Time.html\" rel=\"nofollow\">https:&#x2F;&#x2F;angjobs.com&#x2F;jobs&#x2F;October-2025&#x2F;bjg-10xGenomics-Softwa...</a>",
+   "created_at": "2025-10-11T10:02:51Z",
+   "created_at_i": 1760176971,
+   "objectID": "45547895",
+   "parent_id": 45443014,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:50:05Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_blakenomad",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "LayerTwo Labs | Business Development Lead | Remote | $150k–$200k + performance bonus &#x2F; equity<p>LayerTwo Labs is developing miner-enforced, permissionless sidechains for Bitcoin and taking Drivechain from technology to adoption. We’re looking for a Business Development Lead who can spot high-leverage opportunities, open doors, and build lasting partnerships across the crypto ecosystem.<p>You have deep industry network and proven deal flow. A strong understanding of fundraising and go-to-market. Are an excellent communicator who can get a message out and experienced in building exchange, wallet, and infrastructure partnerships.<p>Apply here: <a href=\"https:&#x2F;&#x2F;applicantai.com&#x2F;layertwolabs&#x2F;business-development-lead&#x2F;10996#apply\" rel=\"nofollow\">https:&#x2F;&#x2F;applicantai.com&#x2F;layertwolabs&#x2F;business-development-le...</a>",
+   "created_at": "2025-10-11T02:49:21Z",
+   "created_at_i": 1760150961,
+   "objectID": "45546170",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:50:02Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_lqm",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Lucia | Senior Machine Learning Engineers, Senior React Engineers, Fullstack Engineers | Remote | Luciaprotocol.com<p>Lucia is changing how data can be used for growth and revenue generation. With our open source SDK you can collect 10x the amount of data from your visitors whether that’s in your website, web app or mobile app. Read more about us at <a href=\"https:&#x2F;&#x2F;docs.luciaprotocol.com\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.luciaprotocol.com</a><p>We’re looking for a mix of positions.<p>- Sr ML Engineer ($135k-240k)<p>- Senior React Engineer ($120k-215k)<p>- Fullstack Engineer ($155k-220k)<p>● Are self-motivated and can work independently<p>● Driven to constantly learn and are always searching for the bigger picture<p>● Strong in clear thinking and written communication<p>We are looking for a Fullstack generalist to help us continue our mission of building a Multi-chain intelligence layer. We’re looking for a Senior ML Engineer to create a language interface that helps our customers resolve identities of pseudo-anonymous visitors into high fidelity profile pages. Our vision is to make the work after building your MVP a breeze. Think of our platform as a compass guiding you towards your northstar which is product market fit.<p>Our ideal engineer has a broad set of experience across frontend, backend, infrastructure, cybersecurity, and data(bases). If you&#x27;ve been responsible for managing production infrastructure, talking to customers, and having full ownership of your features from start to finish.<p>Please email apply[at]luciaprotocol[dot]com with the subject line HN + the name of your role applying for, if this sounds like the right fit for you.",
+   "created_at": "2025-10-10T13:36:36Z",
+   "created_at_i": 1760103396,
+   "objectID": "45538855",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:29Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_victorantos",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Sneos | AI Growth Hacker | REMOTE | Revenue Share<p>I&#x27;m building <a href=\"https:&#x2F;&#x2F;Sneos.com\" rel=\"nofollow\">https:&#x2F;&#x2F;Sneos.com</a> - compare outputs from ChatGPT, Claude, and Gemini side-by-side with a single prompt. Write once, get insights from multiple AI models. The share.sneos.com feature lets you auto-generate and share these comparisons publicly.<p>The Deal: No external funding yet, so offering 50&#x2F;50 revenue share:<p>$9.50-$14.50&#x2F;month per Premium subscriber you bring\nEarnings continue indefinitely while users stay Premium\n100 subscribers = $950-$1,450&#x2F;month recurring income\nNo cap on earnings<p>Looking for:<p>Proven growth hacking track record (especially SaaS&#x2F;AI tools)\nCommunity building, content marketing, viral growth experience\nSelf-starter who can work independently<p>Your Growth Weapon:<p>Leverage <a href=\"https:&#x2F;&#x2F;share.sneos.com\" rel=\"nofollow\">https:&#x2F;&#x2F;share.sneos.com</a> to auto-generate AI comparisons on trending topics, then distribute them to relevant communities (Reddit, X, LinkedIn, forums). Each shared comparison drives users back to the platform - perfect viral loop for subscriber acquisition.<p>You&#x27;ll:<p>Execute growth strategies using our sharing feature\nCreate viral comparison content for different communities\nBuild partnerships and optimize conversion funnels<p>Perfect for someone who wants to bet on themselves and build recurring income. Full autonomy, direct correlation between effort and earnings.<p>Email hello@sneos.com with your growth wins and ideas for Sneos.",
+   "created_at": "2025-10-10T13:09:14Z",
+   "created_at_i": 1760101754,
+   "objectID": "45538589",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:29Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_unicode1",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Hello everyone!<p>We are a building a small team in the software workflows automation space. We are looking for people who are interested in building automation into existing workflows through softwares like Autodesk Revit and Dynamo and industry specific engineering softwares.<p>If you have worked within the built environment or want to see what we are all about, let us know here!<p><a href=\"https:&#x2F;&#x2F;forms.gle&#x2F;cJzZkR3hYZ3WP4Fo8\" rel=\"nofollow\">https:&#x2F;&#x2F;forms.gle&#x2F;cJzZkR3hYZ3WP4Fo8</a>",
+   "created_at": "2025-10-10T00:56:51Z",
+   "created_at_i": 1760057811,
+   "objectID": "45534530",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:12Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_jscalisi",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Arcade Software (<a href=\"https:&#x2F;&#x2F;www.arcade.software&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.arcade.software&#x2F;</a>) | Hybrid, onsite in San Francisco 2x a week | Full Time | AI Product Engineer | Senior Full Stack Engineer: Next.js, Typescript, GCP<p>Series A startup building AI-powered, interactive demos to help teams tell great stories. Over 100,000 users. Small and growing team. Looking for product focused engineers with experience developing features and products from end to end.<p>AI Product Engineer: <a href=\"https:&#x2F;&#x2F;tinyurl.com&#x2F;mt7neyyh\" rel=\"nofollow\">https:&#x2F;&#x2F;tinyurl.com&#x2F;mt7neyyh</a><p>Full Stack Engineer: <a href=\"https:&#x2F;&#x2F;tinyurl.com&#x2F;2w4vkyry\" rel=\"nofollow\">https:&#x2F;&#x2F;tinyurl.com&#x2F;2w4vkyry</a><p>Email joe@arcade.software if you are interested!",
+   "created_at": "2025-10-10T00:12:37Z",
+   "created_at_i": 1760055157,
+   "objectID": "45534318",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:12Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_shubhamjain0594",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Sense Street | Machine Learning Scientist | London, UK | VISA<p>We’re building AI systems for financial markets, transforming unstructured communication (chat, email, voice) into actionable insights. Our models help global banks and funds extract relevant information from human conversations.<p>You’ll work on:<p>- Building and fine-tuning LLMs for information extraction and reasoning over text.<p>- Designing data pipelines for high-signal training data.<p>- Experimenting with prompting, retrieval, and structured generation techniques.<p>- Deploying ML in production with measurable business outcomes.<p>Our stack:\nPython, PyTorch, Transformers, Accelerate, PEFT, Streamlit.<p>Ideal background:<p>- Strong ML fundamentals (transformers, embeddings, fine-tuning).<p>- Experience demonstrating serious research either in academia (through PhD) or industry research roles.<p>- Solid coding ability and curiosity for how ML meets business problems.<p>Why join us:<p>- Deep technical ownership, small senior team.<p>- Direct access to real, high-quality data for training.<p>- Competitive pay, equity, and health&#x2F;pension benefits.<p>- In-office culture (central London) focused on high-output, low-bureaucracy work.<p>Apply: <a href=\"https:&#x2F;&#x2F;sensestreet.bamboohr.com&#x2F;careers&#x2F;61\" rel=\"nofollow\">https:&#x2F;&#x2F;sensestreet.bamboohr.com&#x2F;careers&#x2F;61</a><p>Questions? shubham [at] sensestreet [dot] com",
+   "created_at": "2025-10-10T00:05:28Z",
+   "created_at_i": 1760054728,
+   "objectID": "45534283",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:12Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_jperaino",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Norm is building AI that understands regulations for regulatory compliance. Our AI currently automates compliance determinations for federally regulated financial content, though our vision is to build a platform that can handle any regulation in any industry. As AI begins to permeate our society, Norm aims to become a critical building block for other AI systems that need regulatory intelligence. You can read more about our vision here: <a href=\"https:&#x2F;&#x2F;www.norm.ai&#x2F;post&#x2F;building-regulatory-ai-agents\" rel=\"nofollow\">https:&#x2F;&#x2F;www.norm.ai&#x2F;post&#x2F;building-regulatory-ai-agents</a><p>We&#x27;ve raised $87m from top-tier investors to pursue this vision. We&#x27;re growing very quickly and have major, household-name financial institutions as clients and investors. We&#x27;re working on hard, interesting problems and want to push the boundaries of what&#x27;s possible for AI-driven products. We&#x27;re hiring for many engineering roles in NYC and SF, including:<p>- Full Stack Engineer, Senior + Staff ($190k-270k)<p>- Design Engineer, Senior + Staff ($190k-270k)<p>- Staff Frontend Engineer ($235-270k)<p>- Applied AI Engineer ($200k-275k)<p>- Cloud Infrastructure Engineer ($175k-250k)<p>- Forward Deployed Engineer ($190k-250k)<p>- Quality Engineering Lead ($130k - 185k)<p>We&#x27;re also hiring for many non-technical roles. The best way to apply is online on our website (we review every application!). Full list here: <a href=\"https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;norm-ai?utm_source=7ow8wN5o3g\" rel=\"nofollow\">https:&#x2F;&#x2F;jobs.ashbyhq.com&#x2F;norm-ai?utm_source=7ow8wN5o3g</a>.",
+   "created_at": "2025-10-09T20:22:27Z",
+   "created_at_i": 1760041347,
+   "objectID": "45532630",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:04Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_apwell23",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "<p><pre><code>   Qualified and interested candidates should email their cover letter, resume, and compensation requirements to engineering@readworks.org.\n</code></pre>\nlooks like your inbox is flooded and not accepting mail anymore.<p>always feel silly writing coverletters and then email doesn&#x27;t go through :)",
+   "created_at": "2025-10-09T20:05:47Z",
+   "created_at_i": 1760040347,
+   "objectID": "45532409",
+   "parent_id": 45453035,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:49:04Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_grimre4p",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Finra | Lead Cybersecurity Analyst, CAT | Rockville, MD, US | Onsite | $122,800 - 242,600 USD &#x2F; year | Full-Time<p>Tech used: AWS, Support, Security<p>In this role, I will entrust you with managing and communicating cybersecurity threats, risks, and the status of controls to the Chief Information Security Officer (CISO) and relevant stakeholders. This position offers a hybrid work environment with clearly defined in-person presence requirements. Occasional travel and the possibility of extended hours may be necessary. We offer a competitive salary range based on various factors, including location, skill set, experience level, and education.<p>More details and option to apply: <a href=\"https:&#x2F;&#x2F;devitjobs.com&#x2F;jobs&#x2F;Finra-Lead-Cybersecurity-Analyst-CAT\" rel=\"nofollow\">https:&#x2F;&#x2F;devitjobs.com&#x2F;jobs&#x2F;Finra-Lead-Cybersecurity-Analyst-...</a>",
+   "created_at": "2025-10-09T16:36:03Z",
+   "created_at_i": 1760027763,
+   "objectID": "45530010",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:54Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_everyonecodes",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "everyone codes gGmbH | Software Development Mentor | Part-time | Hybrid in Viennna (Austria)<p>everyone codes is a non-profit that offers high quality programming courses to people in need, for free (we&#x27;re sponsored by the government, but highly independent).<p>We&#x27;re looking for an additional Software Developer&#x2F;Programming Mentor to join us long-term. This role is for 25-35 hours per week, depending on your needs. You will do interactive lectures, live coding and Q&amp;A sessions as well as substitute other mentors in case they&#x27;re on sick-leave or vacation.<p>You can learn more about this role here: <a href=\"https:&#x2F;&#x2F;everyonecodes.io&#x2F;job-sd-mentor-en\" rel=\"nofollow\">https:&#x2F;&#x2F;everyonecodes.io&#x2F;job-sd-mentor-en</a><p>If you have any questions, feel free to visit our website <a href=\"https:&#x2F;&#x2F;everyonecodes.io\" rel=\"nofollow\">https:&#x2F;&#x2F;everyonecodes.io</a> or send an email to people@everyonecodes.io",
+   "created_at": "2025-10-09T14:00:05Z",
+   "created_at_i": 1760018405,
+   "objectID": "45527820",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:41Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_astrastorm",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "This is not remote.",
+   "created_at": "2025-10-09T04:05:07Z",
+   "created_at_i": 1759982707,
+   "objectID": "45523363",
+   "parent_id": 45521953,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:23Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_andyayers",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45611244
+   ],
+   "comment_text": "Microsoft | Compiler Engineer, .NET JIT | C++, C# | Redmond WA &#x2F; Other locations possible<p>We are a small tight-knit team, happy to both teach and learn new ways of making code run faster.<p>If you&#x27;re curious about the kind of work we have been doing recently, check out the JIT section of <a href=\"https:&#x2F;&#x2F;devblogs.microsoft.com&#x2F;dotnet&#x2F;performance-improvements-in-net-10&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;devblogs.microsoft.com&#x2F;dotnet&#x2F;performance-improvemen...</a> and or <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dotnet&#x2F;runtime&#x2F;blob&#x2F;main&#x2F;docs&#x2F;design&#x2F;coreclr&#x2F;jit&#x2F;DeabstractionAndConditionalEscapeAnalysis.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dotnet&#x2F;runtime&#x2F;blob&#x2F;main&#x2F;docs&#x2F;design&#x2F;core...</a>",
+   "created_at": "2025-10-09T02:02:51Z",
+   "created_at_i": 1759975371,
+   "objectID": "45522692",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:19Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_freeqaz",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45523363
+   ],
+   "comment_text": "Scale AI | Product Security Engineer | TypeScript, Node, Python, AWS | Full-time | Hybrid in San Francisco, CA or NYC or Remote<p>This is for a team that I&#x27;m working closely with and helping grow. We&#x27;re hiring for somebody with a hybrid SWE and Security background to help scale up the team.<p>It&#x27;s currently one engineer who&#x27;s got a ton on his plate, so the ideal person for this role is somebody who&#x27;s interested in learning, digging in deep to fix issues (especially shipping PRs), and helping shape the future roadmap of the team. It is not an analyst role.<p>The role is primarily targeted at mid-career folks with a few years of experience (2+ years minimum). Those that are Senior&#x2F;Staff level folks, especially those with a strong SWE background that are curious about security, are encouraged to apply if this role resonates strongly. (I personally transitioned from SWE -&gt; ProdSec, years ago, and several other folks on the broader Security team have non-Security backgrounds too.)<p>Here is the role: <a href=\"https:&#x2F;&#x2F;scale.com&#x2F;careers&#x2F;4602047005\" rel=\"nofollow\">https:&#x2F;&#x2F;scale.com&#x2F;careers&#x2F;4602047005</a><p>Feel free to apply there, email me with you resume (on my profile), or add me on LinkedIn[0]. I&#x27;ll try my best to answer questions and reply to everybody, but sometimes there is so much inbound that it isn&#x27;t possible. Thanks!<p>0: <a href=\"https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;freewortley&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;freewortley&#x2F;</a>",
+   "created_at": "2025-10-08T23:55:13Z",
+   "created_at_i": 1759967713,
+   "objectID": "45521953",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:14Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_rmhsilva",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "comment_text": "Flok Health | Engineering (multiple roles) | ONSITE Cambridge UK<p>Flok builds and runs explainable AI (not LLM-based) physiotherapy clinics for the UK National Health System.<p>We’re a real clinical service, built on software solving hard problems across expert systems and real-time video streaming, providing treatment for (chronic) back pain, and soon, other common conditions. Flok is both a &quot;clinic&quot; and a consumer product company, so we can make our patients&#x27; experience as good as possible.<p>Most recent press about us on the BBC: <a href=\"https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;articles&#x2F;cy4y9xm1eejo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;articles&#x2F;cy4y9xm1eejo</a><p>We also recently gained class 2a medical device certification for our technology:\n<a href=\"https:&#x2F;&#x2F;www.digitalhealth.net&#x2F;2025&#x2F;10&#x2F;ai-powered-physiotherapist-approved-to-make-autonomous-decisions&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.digitalhealth.net&#x2F;2025&#x2F;10&#x2F;ai-powered-physiothera...</a><p>Our favourite languages: Python, Typescript, Rust.<p>Read more and apply at <a href=\"https:&#x2F;&#x2F;careers.flok.health\" rel=\"nofollow\">https:&#x2F;&#x2F;careers.flok.health</a> or find me online and DM me!",
+   "created_at": "2025-10-08T20:33:38Z",
+   "created_at_i": 1759955618,
+   "objectID": "45520291",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:10Z"
+  },
+  {
+   "_tags": [
+    "comment",
+    "author_kirin_memorang",
+    "story_45438503"
+   ],
+   "author": "redacted",
+   "children": [
+    45560400
+   ],
+   "comment_text": "Memorang (AI-powered EdTech stack) | Full-Time | Los Angeles, CA (remote)\nOur mission: Build the AI stack for education—an agentic framework to launch, monetize, and power learning apps 50× faster. We bootstrapped to profitability, were voted #1 among 1,500 in the Vercel AI Accelerator, and collectively reach tens of millions of learners.\n---------<p>Open Roles:<p>Full-Stack Engineers: Work on mission-critical, rapid POCs to MVPs using TypeScript, React&#x2F;Next.js, AWS Lambda, Postgres, and Neo4j. Help shape infrastructure and UI for bleeding-edge AI-powered features.<p>Senior AI Agents Engineers: Own modular agent architecture, RAG pipelines, and LangGraph-based systems in TypeScript&#x2F;Node.js. Architect reasoning layers, agent memory, and performance tuning for intelligent learning agents.<p>Graph Engineer (Neo4j “guru”) – Lead graph modeling, Cypher optimization, and scaling strategies for our core knowledge graph.<p>Product Designers: Design intuitive UX&#x2F;UI for AI-powered content creation and learning tools. Collaborate closely with engineers on fast-moving features. We&#x27;re looking for Figma power users who think in systems, move quickly, and have a portfolio of clean, polished, shipped work.<p>Technical Product Managers: Define schemas, APIs, and workflows that bridge AI research to production. Own developer tooling, agent orchestration layers, and internal platforms like Linear&#x2F;Notion. Drive clarity, velocity, and scalability across multi-agent, LLM-powered systems.<p>--------<p>Why Memorang?<p>Remote-first, async-friendly team with flexible hours<p>Health &amp; wellness stipends, home-office support, paid time off<p>Opportunity to ship systems used by millions—at a built-for-speed profitable startup.<p>--------<p>Apply here: <a href=\"https:&#x2F;&#x2F;memorang.com&#x2F;careers\" rel=\"nofollow\">https:&#x2F;&#x2F;memorang.com&#x2F;careers</a><p>Or email careers@memorang.com with your CV, a short note (1–3 sentences) about which role excites you and why, and a link to your best project or portfolio.",
+   "created_at": "2025-10-08T20:04:37Z",
+   "created_at_i": 1759953877,
+   "objectID": "45520010",
+   "parent_id": 45438503,
+   "story_id": 45438503,
+   "story_title": "Ask HN: Who is hiring? (October 2025)",
+   "updated_at": "2026-03-05T22:48:10Z"
+  }
+ ],
+ "hitsPerPage": 40,
+ "nbHits": 464,
+ "nbPages": 12,
+ "page": 0,
+ "params": "tags=comment%2Cstory_45438503&hitsPerPage=40&advancedSyntax=true&analyticsTags=backend",
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "queue": 9,
+   "roundTrip": 15
+  },
+  "afterFetch": {
+   "format": {
+    "highlighting": 2,
+    "total": 3
+   },
+   "merge": {
+    "total": 1
+   },
+   "total": 1
+  },
+  "total": 2
+ },
+ "query": "",
+ "serverTimeMS": 15
+}

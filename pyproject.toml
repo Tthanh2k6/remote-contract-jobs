@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "remote-contract-jobs"
+version = "0.1.0"
+description = "Read-only remote contract job search CLI and MCP server."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Trung Thanh Tran" }]
+dependencies = ["requests>=2.31,<3", "tomli>=2; python_version < '3.11'"]
+
+[project.optional-dependencies]
+mcp = ["mcp>=1.2"]
+dev = ["pytest>=7,<10"]
+
+[project.urls]
+Homepage = "https://github.com/Tthanh2k6/remote-contract-jobs"
+
+[project.scripts]
+remote-contract-jobs = "remote_contract_jobs.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
