@@ -12,9 +12,9 @@ Python 3.10+; MIT; maintained by Trung Thanh Tran ([Tthanh2k6](https://github.co
 ## Install
 
 ```sh
-pipx install 'git+https://github.com/Tthanh2k6/remote-contract-jobs.git'
+pipx install remote-contract-jobs        # or: uvx remote-contract-jobs search --help
 # Include the optional MCP server:
-pipx install 'remote-contract-jobs[mcp] @ git+https://github.com/Tthanh2k6/remote-contract-jobs.git'
+pipx install 'remote-contract-jobs[mcp]'
 ```
 
 For a local checkout:
