@@ -2,7 +2,7 @@
 
 A small Python package with a CLI and an MCP server that pulls remote job posts from public APIs/feeds, keeps the ones that fit a part-time/contract developer outside the US, and drops posts that require things the user cannot do (video calls, camera interviews, ID document collection, US-only work authorization).
 
-Owner: Trung Thanh Tran (GitHub Tthanh2k6). License MIT. Python 3.10+. Same layout and style as D:/Project/supabase-rls-check (src/ layout, pyproject, `MCPServer` import with FastMCP fallback, pytest, GitHub Actions CI). Read that repo for conventions before starting.
+Owner: Trung Thanh Tran (GitHub Tthanh2k6). License MIT. Python 3.10+. Same layout and style as D:/Project/1-dang-ban/supabase-rls-check (src/ layout, pyproject, `MCPServer` import with FastMCP fallback, pytest, GitHub Actions CI). Read that repo for conventions before starting.
 
 ## Sources (public, no login, no scraping of HTML pages)
 | id | endpoint | notes |
