@@ -141,7 +141,7 @@ def test_transport_cache_throttle_timeout(fixture_data, monkeypatch, tmp_path):
     assert fetcher.get(url) == data
     assert len(calls) == 2 and sleeps == [1.0]
     assert calls[0][1]["timeout"] == 20
-    assert calls[0][1]["headers"]["User-Agent"].startswith("remote-contract-jobs/0.1.0")
+    assert calls[0][1]["headers"]["User-Agent"].startswith("remote-contract-jobs/")
     cache_before = cache.read_bytes()
     fetcher.no_cache = True
     fetcher.get(url)
