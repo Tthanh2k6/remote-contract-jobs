@@ -138,7 +138,7 @@ subtracts 15; more than three years' experience or a senior/staff/lead title sub
 | make | [Make Community](https://community.make.com/c/hire-a-pro/hire-help/74) | Public Discourse topic list; original topic links. |
 | ashby | [Ashby](https://jobs.ashbyhq.com) | Public configured employer boards, including compensation when available. |
 
-The client sends `remote-contract-jobs/0.1.0 (+https://github.com/Tthanh2k6/remote-contract-jobs)`,
+The client sends `remote-contract-jobs/<version> (+https://github.com/Tthanh2k6/remote-contract-jobs)`,
 uses a 20-second timeout, and spaces requests to each host by at least one second
 within a process. Responses are cached atomically for 30 minutes in
 `~/.cache/remote-contract-jobs/`. `--no-cache` bypasses both cache reads and writes.
