@@ -48,7 +48,8 @@ Types absent from structured fields are inferred from the title and first 300 te
 Table and Markdown output include score, title, company, source name, age, location,
 source link, reasons and flags. JSON returns an object containing `jobs`,
 `source_errors`, and `attribution`; `--show-rejected` adds `rejected` records with
-`rejection_reasons`. JSON attribution stays inside the object so stdout remains valid JSON.
+`rejection_reasons`. `filtered_out` is always present: the number of dropped posts and a
+count per reason (a post failing several checks counts once under each). JSON attribution stays inside the object so stdout remains valid JSON.
 One failed source does not stop the others, including when an earlier page succeeded.
 Invalid options/configuration return exit code 2; completed searches, including partial
 results with source errors, return 0. Always inspect `source_errors`.

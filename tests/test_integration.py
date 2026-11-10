@@ -152,3 +152,18 @@ def test_search_invalid_parameters():
     for kwargs in ({"max_age_days": -1}, {"min_score": 101}, {"limit": -1}, {"query": "python"}):
         with pytest.raises(ValueError):
             search_jobs(**kwargs)
+
+
+def test_filtered_out_summary_counts_each_post_once_per_reason(fixture_data, capsys):
+    result = search_jobs(sources=["himalayas"], max_age_days=100, min_score=0,
+                         show_rejected=True, fetcher=FixtureFetcher(fixture_data), now=NOW)
+    summary = result["filtered_out"]
+    assert summary["total"] == len(result["rejected"]) > 0
+    for reason, count in summary["by_reason"].items():
+        assert ":" not in reason
+        assert count == sum(1 for r in result["rejected"]
+                            if reason in {x.split(":", 1)[0] for x in r["rejection_reasons"]})
+    hidden = search_jobs(sources=["himalayas"], max_age_days=100, min_score=0,
+                         fetcher=FixtureFetcher(fixture_data), now=NOW)
+    assert "rejected" not in hidden and hidden["filtered_out"] == summary
+    assert f"Filtered out {summary['total']} posts" in cli.render(hidden, "table")

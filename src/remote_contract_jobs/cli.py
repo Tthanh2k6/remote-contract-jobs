@@ -44,6 +44,10 @@ def render(result, format):
         lines.append("No matching jobs.")
     for rejected in result.get("rejected", []):
         lines.append("Rejected: " + (safe(rejected["title"]) if format == "md" else rejected["title"]) + " — " + ", ".join(rejected["rejection_reasons"]))
+    filtered = result.get("filtered_out") or {}
+    if filtered.get("total"):
+        top = ", ".join(f"{reason} {count}" for reason, count in list(filtered["by_reason"].items())[:6])
+        lines.append(f"Filtered out {filtered['total']} posts ({top}). A post can fail several checks; use --show-rejected for details.")
     for error in result["source_errors"]:
         message = f"Source error ({error['source']}): {error['error']}"
         lines.append(safe(message) if format == "md" else message)
