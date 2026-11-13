@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+## 0.1.2 — 2026-11-13
+
+- MCP tools are registered with `add_tool()` instead of `tool()(fn)`, so static scanners and MCP catalogues (for example MCP Trust Checker on mcprush) can list them; behaviour is unchanged. `list_sources` now has a description, and a test checks both tool names and descriptions against the real `mcp` SDK.
 - Every search result now has `filtered_out` (`total` and `by_reason`, one count per post per reason), and table/Markdown output ends with a one-line summary, so a short result list shows why posts were dropped (in a live run on 10 Nov 2026: 873 dropped, mostly too old, full-time or location-restricted). MCP `search_jobs` returns the same field.
 
 ## 0.1.0 — 2026-11-09

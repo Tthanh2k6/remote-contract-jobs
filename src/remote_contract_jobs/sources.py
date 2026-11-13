@@ -22,6 +22,7 @@ WWR_CATEGORIES = ("remote-back-end-programming-jobs", "remote-front-end-programm
 
 
 def list_sources():
+    """List the public job sources searched, with each one's id, name, URL and usage terms."""
     return [dict(id=k, name=v[0], url=v[1], terms=v[2]) for k, v in SOURCES.items()]
 
 

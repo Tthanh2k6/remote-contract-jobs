@@ -38,9 +38,10 @@ def create_mcp_server(fastmcp_cls=None, config_path=None):
             include_fulltime=include_fulltime, min_score=min_score, limit=limit,
             boards=config.get("ashby_boards", ["supabase"]))
 
-    configured_search_jobs.__name__ = "search_jobs"
-    server.tool()(configured_search_jobs)
-    server.tool()(list_sources)
+    # add_tool(fn) rather than tool()(fn): static scanners such as MCP Trust
+    # Checker (mcprush) only read the add_tool / @tool registration shapes.
+    server.add_tool(configured_search_jobs, name="search_jobs")
+    server.add_tool(list_sources)
     return server
 
 

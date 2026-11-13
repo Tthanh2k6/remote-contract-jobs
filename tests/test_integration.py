@@ -93,15 +93,22 @@ def test_mcp_tools_return_json(fixture_data, monkeypatch, tmp_path):
     class FakeServer:
         def __init__(self, name):
             self.tools = {}
-        def tool(self):
-            def register(fn):
-                self.tools[fn.__name__] = fn
-                return fn
-            return register
+        def add_tool(self, fn, name=None):
+            self.tools[name or fn.__name__] = fn
     server = mcp_server.create_mcp_server(FakeServer)
     assert set(server.tools) == {"search_jobs", "list_sources"}
     assert len(server.tools["list_sources"]()) == 8
     assert server.tools["search_jobs"](sources=["remoteok"])["source_errors"]
+
+
+def test_mcp_real_sdk_lists_named_tools_with_descriptions():
+    pytest.importorskip("mcp")
+    server = mcp_server.create_mcp_server()
+    # The tool manager lists synchronously; asyncio.run would open a socketpair
+    # on Windows, which the no-network fixture forbids.
+    tools = server._tool_manager.list_tools()
+    assert sorted(t.name for t in tools) == ["list_sources", "search_jobs"]
+    assert all(t.description for t in tools)
 
 
 def test_mcp_missing_extra(monkeypatch):
