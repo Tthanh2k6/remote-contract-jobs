@@ -2,6 +2,8 @@
 
 <!-- mcp-name: io.github.Tthanh2k6/remote-contract-jobs -->
 
+[![Remote Contract Jobs MCP on mcprush](https://mcprush.com/badge/remote-contract-jobs-mcp/score.svg)](https://mcprush.com/to/remote-contract-jobs-mcp?ref=badge)
+
 A small Python CLI and optional MCP server for finding remote part-time, contract,
 and freelance work from public APIs and RSS feeds. Built for a developer in Vietnam
 (UTC+7) who needs opportunities outside US-only hiring restrictions and cannot
