@@ -70,8 +70,9 @@ def test_config_validation_and_override(fixture_data, tmp_path, monkeypatch):
     path.write_text('keywords = "python"', encoding="utf-8")
     with pytest.raises(ValueError):
         config.load_config(path)
-    path.write_text('keywords = ["rust"]\nmax_age_days = 14', encoding="utf-8")
+    path.write_text('keywords = ["rust"]\nlever_boards = ["fly"]\nmax_age_days = 14', encoding="utf-8")
     assert config.load_config()["max_age_days"] == 14
+    assert config.load_config()["lever_boards"] == ["fly"]
     received = {}
     def fake(**kwargs):
         received.update(kwargs)
@@ -97,7 +98,7 @@ def test_mcp_tools_return_json(fixture_data, monkeypatch, tmp_path):
             self.tools[name or fn.__name__] = fn
     server = mcp_server.create_mcp_server(FakeServer)
     assert set(server.tools) == {"search_jobs", "list_sources"}
-    assert len(server.tools["list_sources"]()) == 8
+    assert len(server.tools["list_sources"]()) == 9
     assert server.tools["search_jobs"](sources=["remoteok"])["source_errors"]
 
 

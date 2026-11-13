@@ -7,7 +7,7 @@ import sys
 
 from .config import load_config
 from .search import search_jobs
-from .sources import ATTRIBUTION, SOURCES, list_sources
+from .sources import ATTRIBUTION, DEFAULT_ASHBY_BOARDS, DEFAULT_LEVER_BOARDS, SOURCES, list_sources
 
 
 def age_label(posted_at):
@@ -95,8 +95,9 @@ def main(argv=None, *, fetcher=None):
                 sources=[s.strip() for s in args.sources.split(",")] if args.sources else [],
                 max_age_days=args.max_age_days if args.max_age_days is not None else config.get("max_age_days", 7),
                 include_fulltime=args.include_fulltime, min_score=args.min_score, limit=args.limit,
-                boards=config.get("ashby_boards", ["supabase"]), no_cache=args.no_cache,
-                show_rejected=args.show_rejected, fetcher=fetcher)
+                boards=config.get("ashby_boards", DEFAULT_ASHBY_BOARDS),
+                lever_boards=config.get("lever_boards", DEFAULT_LEVER_BOARDS),
+                no_cache=args.no_cache, show_rejected=args.show_rejected, fetcher=fetcher)
             print(render(result, args.format))
     except (ValueError, OSError, RuntimeError) as exc:
         print(f"Error: {exc}", file=sys.stderr)

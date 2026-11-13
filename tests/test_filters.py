@@ -92,10 +92,15 @@ def test_dedupe():
 def test_plain_and_dates():
     assert plain("<p>Hello <b>world</b></p><script>bad</script>&amp; friends") == "Hello world & friends"
     assert iso_date("2026-11-09T07:00:00+07:00") == "2026-11-09T00:00:00Z"
+    assert iso_date(1793907128954).startswith("2026-11-")
     assert iso_date("bad") == ""
 
 
-@pytest.mark.parametrize("location", ["Hungary", "Germany", "Brazil, Mexico", "LATAM", "EMEA", "Morocco"])
+@pytest.mark.parametrize("location", [
+    "Hungary", "Germany", "Brazil, Mexico", "LATAM", "EMEA", "AMER", "NAMER",
+    "Morocco", "Prague", "Boston", "Remote - Prague", "Remote - Boston",
+    "Remote (EMEA)", "Remote - Australia", "Global / EMEA Only", "EMEA-only",
+])
 def test_structured_country_lists_outside_accepted_region_are_rejected(location):
     assert location_fit(location) == "reject"
 

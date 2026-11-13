@@ -116,3 +116,39 @@ def test_hn_hiring_thread_skips_job_seeker_posts():
         {"objectID": "3", "parent_id": 9, "created_at": "2026-11-05T00:00:00Z",
          "comment_text": "Acme | Python contractor | REMOTE (worldwide) | part-time"}]}
     assert [j.url[-1] for j in parse_hn(data, 9)] == ["3"]
+
+
+def test_parse_lever_and_fetch_routes():
+    payload = [{
+        "id": "abc",
+        "text": "Security Engineer",
+        "hostedUrl": "https://jobs.lever.co/fly/abc",
+        "applyUrl": "https://jobs.lever.co/fly/abc/apply",
+        "createdAt": 1793907128954,
+        "workplaceType": "remote",
+        "categories": {"commitment": "Full Time", "department": "Security", "team": "Platform", "location": "Remote"},
+        "descriptionPlain": "Build multi-tenant isolation",
+        "additionalPlain": "No US restriction",
+        "salaryRange": {"min": 140000, "max": 180000, "currency": "USD", "interval": "per-year"},
+    }]
+    jobs = s.parse_lever(payload, "fly")
+    assert len(jobs) == 1
+    j = jobs[0]
+    assert j.source == "lever" and j.company == "fly"
+    assert j.posted_at.startswith("2026-11-") and j.posted_at.endswith("Z")
+    assert j.employment_type == "full-time" and j.location_text == "Remote"
+    assert j.tags == ["Security", "Platform"]
+    assert "USD" in j.salary_text and "140000" in j.salary_text
+
+    class Fake:
+        urls = []
+        def get(self, url):
+            self.urls.append(url)
+            return json.dumps(payload)
+
+    fake = Fake()
+    fetched = list(s.fetch_source("lever", fake, lever_boards=("fly",)))
+    assert len(fetched) == 1
+    assert fake.urls == ["https://api.lever.co/v0/postings/fly?mode=json"]
+    assert set(s.DEFAULT_ASHBY_BOARDS) >= {"supabase", "PostHog", "Mastra", "inngest", "linear", "railway"}
+    assert s.DEFAULT_LEVER_BOARDS == ("fly",)

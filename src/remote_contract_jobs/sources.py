@@ -15,7 +15,10 @@ SOURCES = {
     "n8n": ("n8n Community", "https://community.n8n.io", "Public Discourse jobs topics; preserve topic links."),
     "make": ("Make Community", "https://community.make.com", "Public Discourse Hire Help topics; preserve topic links."),
     "ashby": ("Ashby", "https://jobs.ashbyhq.com", "Public employer posting API; preserve employer job links."),
+    "lever": ("Lever", "https://jobs.lever.co", "Public employer posting API; preserve employer job links."),
 }
+DEFAULT_ASHBY_BOARDS = ("supabase", "PostHog", "Mastra", "inngest", "linear", "railway")
+DEFAULT_LEVER_BOARDS = ("fly",)
 ATTRIBUTION = "Source attribution: Remotive (https://remotive.com), Remote OK (https://remoteok.com)."
 DISCOURSE = {"n8n": "https://community.n8n.io/c/jobs/13.json", "make": "https://community.make.com/c/hire-a-pro/hire-help/74.json"}
 WWR_CATEGORIES = ("remote-back-end-programming-jobs", "remote-front-end-programming-jobs", "remote-full-stack-programming-jobs")
@@ -92,6 +95,22 @@ def parse_ashby(data, board):
             for r in data["jobs"] if r.get("isListed", True)]
 
 
+def parse_lever(data, board):
+    result = []
+    for r in data:
+        cats = r.get("categories") or {}
+        location = cats.get("location") or ", ".join(cats.get("allLocations") or []) or ("Remote" if r.get("workplaceType") == "remote" else "")
+        body = " ".join(filter(None, [r.get("descriptionBodyPlain") or r.get("descriptionPlain") or r.get("description", ""), r.get("additionalPlain") or ""]))
+        sr = r.get("salaryRange")
+        result.append(job("lever", r["text"], board, r["hostedUrl"], apply_url=r.get("applyUrl") or "",
+                          posted_at=iso_date(r.get("createdAt")), location_text=location,
+                          employment_type=cats.get("commitment", ""),
+                          tags=[cats[k] for k in ("department", "team") if cats.get(k)],
+                          text=body,
+                          salary_text=salary(sr, "min", "max", sr.get("currency"), sr.get("interval")) if isinstance(sr, dict) else ""))
+    return result
+
+
 def hn_threads(data):
     result = []
     for phrase in ("who is hiring?", "freelancer? seeking freelancer?"):
@@ -123,7 +142,7 @@ def parse_hn(data, story_id, freelancer=False):
     return result
 
 
-def fetch_source(source, fetcher, query=(), boards=("supabase",)):
+def fetch_source(source, fetcher, query=(), boards=DEFAULT_ASHBY_BOARDS, lever_boards=DEFAULT_LEVER_BOARDS):
     """Yield records page by page; keep already yielded records on later errors.
 
     Bound broad feeds to five pages; HN comments use Algolia's reported pages.
@@ -157,6 +176,9 @@ def fetch_source(source, fetcher, query=(), boards=("supabase",)):
     elif source == "ashby":
         for board in boards:
             yield from parse_ashby(get(f"https://api.ashbyhq.com/posting-api/job-board/{quote(board, safe='')}?includeCompensation=true"), board)
+    elif source == "lever":
+        for board in lever_boards:
+            yield from parse_lever(get(f"https://api.lever.co/v0/postings/{quote(board, safe='')}?mode=json"), board)
     elif source == "hn":
         threads = []
         for phrase in ("Who is hiring?", "Freelancer? Seeking freelancer?"):

@@ -1,7 +1,7 @@
 """Optional read-only stdio tools backed by public GET requests."""
 from .config import load_config
 from .search import search_jobs as _search_jobs
-from .sources import list_sources
+from .sources import DEFAULT_ASHBY_BOARDS, DEFAULT_LEVER_BOARDS, list_sources
 
 MCP_INSTALL_HINT = ('Optional dependency "mcp" is not installed. '
                     'Install it with: pip install "remote-contract-jobs[mcp]"')
@@ -15,7 +15,8 @@ def search_jobs(query: list[str] = [], exclude: list[str] = [], sources: list[st
     return _search_jobs(query=query or config.get("keywords", []), exclude=exclude or config.get("excludes", []),
         sources=sources, max_age_days=config.get("max_age_days", 7) if max_age_days == 7 else max_age_days,
         include_fulltime=include_fulltime, min_score=min_score, limit=limit,
-        boards=config.get("ashby_boards", ["supabase"]))
+        boards=config.get("ashby_boards", DEFAULT_ASHBY_BOARDS),
+        lever_boards=config.get("lever_boards", DEFAULT_LEVER_BOARDS))
 
 
 def create_mcp_server(fastmcp_cls=None, config_path=None):
@@ -36,7 +37,8 @@ def create_mcp_server(fastmcp_cls=None, config_path=None):
         return _search_jobs(query=query or config.get("keywords", []), exclude=exclude or config.get("excludes", []),
             sources=sources, max_age_days=config.get("max_age_days", 7) if max_age_days == 7 else max_age_days,
             include_fulltime=include_fulltime, min_score=min_score, limit=limit,
-            boards=config.get("ashby_boards", ["supabase"]))
+            boards=config.get("ashby_boards", DEFAULT_ASHBY_BOARDS),
+            lever_boards=config.get("lever_boards", DEFAULT_LEVER_BOARDS))
 
     # add_tool(fn) rather than tool()(fn): static scanners such as MCP Trust
     # Checker (mcprush) only read the add_tool / @tool registration shapes.

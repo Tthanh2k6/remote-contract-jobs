@@ -26,7 +26,9 @@ LOCATION_REJECT = [
     r"\b(?:on[ -]?site|hybrid(?!\s+(?:cloud|architecture|database|model)))\b",
     r"\b(?:full|complete|8[ -]hour)\s+overlap\b.{0,60}\b(?:us|usa|est|pst|cst|american|eastern|pacific)\b",
     r"\b(?:us|usa|est|pst|cst|american|eastern|pacific)\b.{0,60}\b(?:full|complete|8[ -]hour)\s+overlap\b",
+    r"\b(?:emea|amer|namer|latam)\s*[- ]only\b",
     rf"\bremote\s*\(\s*{COUNTRIES}\s*\)",
+    rf"\bremote\s*(?:\(|-\s*)(?:{COUNTRIES}|emea|amer|namer|latam|europe|uk|australia)\b",
 ]
 LOCATION_OK = r"\b(?:worldwide|anywhere|global|apac|asia|vietnam|viet nam)\b"
 FORUM_SOURCES = {"hn", "n8n", "make"}
@@ -37,7 +39,7 @@ OTHER_COUNTRIES = (r"\b(?:germany|france|spain|portugal|italy|netherlands|belgiu
     r"norway|denmark|finland|estonia|latvia|lithuania|turkey|türkiye|israel|united arab emirates|uae|"
     r"saudi arabia|egypt|morocco|tunisia|algeria|south africa|nigeria|kenya|brazil|mexico|argentina|colombia|chile|peru|"
     r"india|pakistan|bangladesh|australia|new zealand|japan|south korea|china|singapore|malaysia|"
-    r"indonesia|philippines|thailand|latam|latin america|emea|americas|north america)\b")
+    r"indonesia|philippines|thailand|latam|latin america|emea|amer|namer|americas|north america|prague|boston)\b")
 
 
 def positive_match(pattern, text):

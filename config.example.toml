@@ -1,5 +1,6 @@
 # Example profile for Trung Thanh Tran; built-in keywords default to empty.
 keywords = ["supabase", "postgres", "react native", "expo", "python", "automation", "scraping", "n8n", "apps script", "mcp"]
 excludes = []
-ashby_boards = ["supabase"]
+ashby_boards = ["supabase", "PostHog", "Mastra", "inngest", "linear", "railway"]
+lever_boards = ["fly"]
 max_age_days = 7

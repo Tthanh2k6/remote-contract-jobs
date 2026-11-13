@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Add `lever` public postings adapter (`parse_lever`, epoch-millisecond `iso_date` handling, `lever_boards` config key) and default boards for Ashby (`supabase`, `PostHog`, `Mastra`, `inngest`, `linear`, `railway`) and Lever (`fly`).
+- Tighten location filtering to reject `EMEA`/`AMER`/`NAMER`/`LATAM`-only, `Prague`, `Boston`, and regional `Remote (...)` / `Remote - ...` variants while keeping shared accepted lists. Now nine sources, 95 tests.
+
 ## 0.1.2 — 2026-11-13
 
 - MCP tools are registered with `add_tool()` instead of `tool()(fn)`, so static scanners and MCP catalogues (for example MCP Trust Checker on mcprush) can list them; behaviour is unchanged. `list_sources` now has a description, and a test checks both tool names and descriptions against the real `mcp` SDK.

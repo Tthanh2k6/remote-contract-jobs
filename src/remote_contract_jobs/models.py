@@ -46,8 +46,9 @@ def iso_date(value) -> str:
     if value in (None, ""):
         return ""
     try:
-        if isinstance(value, (int, float)):
-            dt = datetime.fromtimestamp(value, timezone.utc)
+        if isinstance(value, (int, float)) and not isinstance(value, bool):
+            ts = value / 1000 if abs(value) > 1e11 else value
+            dt = datetime.fromtimestamp(ts, timezone.utc)
         else:
             try:
                 dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))

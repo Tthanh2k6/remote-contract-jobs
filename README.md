@@ -41,7 +41,7 @@ remote-contract-jobs search --format json --show-rejected --no-cache
 remote-contract-jobs --config ./config.example.toml search
 ```
 
-Defaults: all eight sources, any keyword, no excludes, seven days, no full-time,
+Defaults: all nine sources, any keyword, no excludes, seven days, no full-time,
 minimum score 40, maximum 30 results. Repeating `--q` uses **any** match; matching is
 case-insensitive substring matching across title, tags and full available text.
 Unknown employment types are excluded. Full-time is added only with `--include-fulltime`.
@@ -64,14 +64,16 @@ Copy `config.example.toml` to `~/.config/remote-contract-jobs/config.toml`, or u
 ```toml
 keywords = ["supabase", "postgres", "react native", "expo", "python", "automation", "scraping", "n8n", "apps script", "mcp"]
 excludes = []
-ashby_boards = ["supabase"]
+ashby_boards = ["supabase", "PostHog", "Mastra", "inngest", "linear", "railway"]
+lever_boards = ["fly"]
 max_age_days = 7
 ```
 
 The example profile is optional: built-in keywords and excludes are empty. CLI
 keyword/exclude lists replace their configured lists when supplied. Unknown TOML
-keys and invalid values are errors. Ashby board names are configurable; no credentials
-or environment files are required.
+keys and invalid values are errors. Ashby and Lever board names are configurable
+(built-in defaults cover `supabase`, `PostHog`, `Mastra`, `inngest`, `linear`,
+`railway` on Ashby and `fly` on Lever); no credentials or environment files are required.
 
 ## MCP
 
@@ -138,7 +140,8 @@ subtracts 15; more than three years' experience or a senior/staff/lead title sub
 | hn | [Hacker News](https://news.ycombinator.com) | Algolia; newest matching hiring and freelancer threads; top-level comments only. Freelancer posts must start with SEEKING FREELANCER. |
 | n8n | [n8n Community](https://community.n8n.io/c/jobs/13) | Public Discourse topic list; original topic links. |
 | make | [Make Community](https://community.make.com/c/hire-a-pro/hire-help/74) | Public Discourse topic list; original topic links. |
-| ashby | [Ashby](https://jobs.ashbyhq.com) | Public configured employer boards, including compensation when available. |
+| ashby | [Ashby](https://jobs.ashbyhq.com) | Public configured employer boards (`supabase`, `PostHog`, `Mastra`, `inngest`, `linear`, `railway`), including compensation when available. |
+| lever | [Lever](https://jobs.lever.co) | Public configured employer postings (`fly`), preserving original employer job links. |
 
 The client sends `remote-contract-jobs/<version> (+https://github.com/Tthanh2k6/remote-contract-jobs)`,
 uses a 20-second timeout, and spaces requests to each host by at least one second
