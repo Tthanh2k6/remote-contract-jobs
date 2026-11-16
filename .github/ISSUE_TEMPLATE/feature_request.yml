@@ -1,0 +1,41 @@
+name: Feature request
+description: Propose a new source or a new filter.
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - New source
+        - New filter or blocker
+        - Ranking change
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What do you miss in results today?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source details (new source only)
+      description: |
+        The tool reads public feeds and APIs only, with GET requests. It does not scrape HTML pages, log in or apply to jobs.
+        Give the feed or API URL, a link to the terms page, and what the terms say about reading and showing posts. A source whose terms forbid this will not be added.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: For a filter, give the phrases or fields it should match, and one post that should be dropped and one that should stay.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives tried
+      description: For example `--exclude`, `--min-score` or a config file.
