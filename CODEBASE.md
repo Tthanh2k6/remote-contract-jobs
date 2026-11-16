@@ -3,7 +3,7 @@
 ## 1. Purpose
 
 Python 3.10+ CLI and optional stdio MCP tools for public remote contract job feeds.
-Version 0.1.0. Requirements are in SPEC.md; user documentation is in README.md.
+Version 0.1.2. User documentation is in README.md.
 
 ## 2. Layout
 

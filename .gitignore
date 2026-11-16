@@ -8,3 +8,7 @@ dist/
 .cache/
 .env
 agent.md
+
+# Internal build notes, kept local
+SPEC.md
+agent.md
